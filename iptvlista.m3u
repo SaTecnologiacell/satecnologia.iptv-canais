@@ -308,8 +308,13 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/507
 http://185.150.190.225:16476/
 
 #EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | ESPORTES",Premiere 6 HD
+https://sinalpublico.com/player3/ch.php?canal=premiere6
 
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | ESPORTES",Premiere 7 HD
+https://sinalpublico.com/player3/ch.php?canal=premiere7
+
+#EXTINF:-1 tvg-id="PREMIERE " tvg-logo="https://filmeson.lat/wp-content/uploads/2023/10/assistir-premiere-8-mosaico-online-24-horas-ao-vivo-203x300.webp" group-title="Canais | ESPORTES",Premiere 8 HD
+https://sinalpublico.com/player3/ch.php?canal=premiere8
 
 #EXTINF:-1 tvg-id="TyC Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="Canais | ESPORTES",TyC Sports HD
 https://live.sdfgnksbounce.com:8080/NDUuMjI2LjIzNC4xOQ==/11_.m3u8?token=2zCjRqWWWfA4zKlUFvDTKA&expires=1707101716
