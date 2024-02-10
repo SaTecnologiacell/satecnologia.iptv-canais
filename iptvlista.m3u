@@ -66,6 +66,7 @@ http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/377174.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 3 HD
 http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/377171.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB MOSAICO
 http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/379677.m3u8
 
@@ -225,6 +226,7 @@ https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QdtSn6Y.png" group-title="Canais | ESPORTES",MOSAICO DE JOGOS
 http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/386493.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxEIAg1.png" group-title="Canais | ESPORTES",STAR+ HD³
 http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/188771.m3u8
 
@@ -1985,7 +1987,9 @@ https://ythls.armelin.one/channel/UC94kyY3rSw4j4LjAd8tUBBw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEOwjab.png" group-title="Canais | ABERTO",Rede Brasil Oficial YT
 https://ythls.armelin.one/channel/UCubxEhRi56_V4_eTzzcFwkA.m3u8
+
 ############################################################################ FILMES E SÉRIES | 24H
+
 #EXTINF:-1 tvg-logo="http://capas.webplay.fun/MARVEL.png" group-title="FILMES E SÉRIES | 24H",CINE FAST MARVEL
 http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/33173.m3u8
 
