@@ -14,29 +14,29 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1707603553/ei/A
 ############################################################################ Canais | ABERTO
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo TV Mirante HD
-https://cr7v.short.gy/live7/GloboTVMirante/Index.m3u8
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/174079.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo TV Liberal Belém 
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2366
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/174082.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo Juiz d Fora MG
-https://0141-vos.dtvott.com/DASH/stream_06/Segment-4083729405334830.m4v
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/173984.m3u8
 
 c7fe64d76a4-1707245899-1707238699
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo MG HD
-http://185.150.190.225:16263/
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/173983.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo RJ HD
-https://8mwx.short.gy/GLOBORJ/index.m3u8
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/173921.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo SP HD
-https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/174011.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo SP HD [Alter]
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289884
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/174010.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | ABERTO",TV TEM SP HD
-http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/174054.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LiXkiAZ.png" group-title="Canais | ABERTO",Globo ES HD
 http://200.194.238.229:8383/live/globosupernet/index.m3u8
@@ -59,10 +59,15 @@ https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOB
 ############################################################################ Canais | REALITY BBB 24
 
 #EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 1 HD
-http://xciptv.aplicativos.top/live/884202033/r537B8146t/298259.ts
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/377175.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 2 HD
-https://cr7v.short.gy/ManoITV/BBB2/Index.m3u8
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/377174.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 3 HD
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/377171.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB MOSAICO
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/379677.m3u8
 
 ############################################################################ Canais | ABERTO
 
@@ -217,6 +222,20 @@ https://tv02.zas.media:1936/futurotv21/futurotv21/chunklist_w309642670.m3u8?Mano
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ManoTV
 
 ############################################################################ CANAIS ESPORTES
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdtSn6Y.png" group-title="Canais | ESPORTES",MOSAICO DE JOGOS
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/386493.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxEIAg1.png" group-title="Canais | ESPORTES",STAR+ HD³
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/188771.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lcSlv1g.png" group-title="Canais | ESPORTES",NOSSO FUTEBOL 01
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/208652.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Canais | ESPORTES",FOX SPORTS 2 HD¹
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/18235.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/uvjIrfv.png" group-title="Canais | ESPORTES",HBO Max HD 02²
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/173093.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV SD
 http://177.128.113.8:1/play/a0ak
@@ -554,10 +573,10 @@ https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://imgur.com/lH1Srp9.png" group-title="Canais | VARIEDADES",Discovery Turbo HD
-https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/18215.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://imgur.com/lH1Srp9.png" group-title="Canais | VARIEDADES",Discovery Turbo SD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2591
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://imgur.com/lH1Srp9.png" group-title="Canais | VARIEDADES",Discovery Turbo FHD
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/18121.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="Canais | VARIEDADES",Pluto TV Turbo
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -574,11 +593,11 @@ https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/VSezlWv.png" group-title="Canais | VARIEDADES",Discovery h&h HD
 https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel SD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2576
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel FHD
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/18121.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel HD
-https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/18215.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD 
 https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
@@ -593,10 +612,10 @@ https://cdn-1.nxplay.com.br/HGTV_BR_NX/tracks-v1a1/mono.m3u8
 https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History HD
-https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/18248.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rgDKfki.png" group-title="Canais | VARIEDADES",History 2 HD
-http://cdn.connectbr.com.br/h2/playlist.m3u8?ManoTV
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/18247.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/t97qwNh.png" group-title="Canais | VARIEDADES",Animal Planet HD
 https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
@@ -1966,6 +1985,46 @@ https://ythls.armelin.one/channel/UC94kyY3rSw4j4LjAd8tUBBw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEOwjab.png" group-title="Canais | ABERTO",Rede Brasil Oficial YT
 https://ythls.armelin.one/channel/UCubxEhRi56_V4_eTzzcFwkA.m3u8
+############################################################################ FILMES E SÉRIES | 24H
+#EXTINF:-1 tvg-logo="http://capas.webplay.fun/MARVEL.png" group-title="FILMES E SÉRIES | 24H",CINE FAST MARVEL
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/33173.m3u8
+
+#EXTINF:-1 tvg-logo="http://capas.webplay.fun/MARVEL_DC.png" group-title="FILMES E SÉRIES | 24H",CINE FAST MARVEL VS DC
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/46009.m3u8
+
+#EXTINF:-1 tvg-logo="http://capas.webplay.fun/SESSAODATARDE.png" group-title="FILMES E SÉRIES | 24H",CINE FAST SESSÃO DA TARDE
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/30663.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://capas.webplay.fun/TRAPALHOES.png" group-title="FILMES E SÉRIES | 24H",CINE FAST TRAPALHÕES
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/34433.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png " group-title="FILMES E SÉRIES | 24H",24H Pesadelo Na Cozinha
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/172255.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png " group-title="FILMES E SÉRIES | 24H",24H Anos Incríveis
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/172253.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png " group-title="FILMES E SÉRIES | 24H",24H HANNAH MONTANA
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/172234.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png " group-title="FILMES E SÉRIES | 24H",24H EU A PATROA E AS CRIANÇAS (HARDBLOG)
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/172230.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.prime.tv.br:8080/images/04d4177366dbe822ea89a4d8a08cc148.jpg" group-title="FILMES E SÉRIES | 24H",24H VIKINGS
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/26821.m3u8
+
+#EXTINF:-1 tvg-logo="http://capas.webplay.fun/SPARTACUS.jpg" group-title="FILMES E SÉRIES | 24H",24H SPARTACUS
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/32223.m3u8
+
+#EXTINF:-1 tvg-logo="http://4tv.site:2082/images/055438f996d63c3ebe9f0cc6a18025e5.jpg" group-title="FILMES E SÉRIES | 24H",24H LARGADOS E PELADOS
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/35755.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="FILMES E SÉRIES | 24H",24H POLICIA 24 HORAS
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/35891.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="FILMES E SÉRIES | 24H",24H Chapolin Colorado T04 a T07
+http://4tv.site:2082/live/mj10famsb9/lsg9200o3h/200886.m3u8
 
 ################################################################# Série | Percy Jackson e os Olimpianos S01
 
