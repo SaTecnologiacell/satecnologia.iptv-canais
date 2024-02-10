@@ -1095,9 +1095,6 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NMMtJ8F.png" group-title="Canais | ANIMES & GEEK"",Geekdot​
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ySKHcBY.png" group-title="Canais | ANIMES & GEEK"",Mylou offline 
-http://manoplus.ddns.net/mano.mp4
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3pOHk57.png" group-title="Canais | ANIMES & GEEK"",AniTV
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
@@ -3178,47 +3175,6 @@ http://fhd5.mflixhd.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0119217.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Malibu Crush
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt3437892.mp4
-
-############################################################################ Novela | RENASCER 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER", Capítulo 1
-https://x.xonados.com/22-01-2024.mp4?552201
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER", Capítulo 2
-https://x.xonados.com/23-01-2024.mp4?552301
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER", Capítulo 3
-https://x.xonados.com/24-01-2024.mp4?552401
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER", Capítulo 4
-https://x.xonados.com/25-01-2024.mp4?52501
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER", Capítulo 5
-https://x.xonados.com/26-01-2024.mp4?52601
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 6
-https://x.xonados.com/26-01-2024.mp4?52701
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 7
-https://x.xonados.com/29-01-2024.mp4?552901
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 8
-https://x.xonados.com/30-01-2024.mp4?53001
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 9
-https://x.xonados.com/31-01-2024.mp4?53101
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 10
-https://x.xonados.com/01-02-2024.mp4?50102
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 11
-https://x.xonados.com/02-02-2024.mp4?50202
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 12
-https://x.xonados.com/03-02-2024.mp4?50302
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FytDFzy.png" group-title="Novela | RENASCER",Capítulo 13
-https://x.xonados.com/05-02-2024.mp4?50502
 
 ############################################################################ FILMES | NOVOS
 
