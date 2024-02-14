@@ -2,7 +2,7 @@
 
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",10/02/24
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",14/02/24
 https://cr7v.short.gy/live3/GloboTVMirante/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGKKlfQdtzoQXzu99xw2zTxyDldKOp_0c0FQ&usqp=CAU" group-title="PIX PARA MANTER A LISTA",marcio_fr1992@hotmail.com
@@ -240,7 +240,7 @@ http://142.54.163.202:80/premium79/playlist.m3u8?ddd=1uXRVx7LzZ
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/557
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Canais | ESPORTES",ESPN HD
-http://177.128.113.8:1/play/a07l
+http://191.97.14.38:4000/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Canais | ESPORTES",ESPN HD [Alter]
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/209
@@ -252,19 +252,19 @@ http://51.83.238.223:16515/
 http://94.130.165.243:14515/
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="Canais | ESPORTES",ESPN 2 HD
-http://177.128.113.8:1/play/a07g
+http://191.97.14.38:4000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="Canais | ESPORTES",ESPN 2 HD [Alter]
 http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZevJHMBJFEHS1YHxfHGD_Hy5
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPORTES",ESPN 3 HD
-http://177.128.113.8:1/play/a081
+http://191.97.14.38:4000/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPORTES",ESPN 3 HD [Alter]
 http://142.54.163.202/premium83/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPORTES",ESPN 4 HD
-http://177.128.113.8:1/play/a08i
+http://191.97.14.38:4000/play/a04d/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPORTES",ESPN 4 FHD
 http://142.54.163.202/premium85/tracks-v1a1/mono.m3u8
@@ -274,6 +274,18 @@ http://51.83.238.223:16575/
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPORTES",ESPN Extra HD
 http://177.128.113.8:1/play/a08v
+
+#EXTINF:-1 tvg-id="Fox Sports 1 HD tvg-name="Fox Sports 1 HD " tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/foxsports.png" group-title="Canais | ESPORTES",Fox Sports 1 HD
+http://191.97.14.38:4000/play/a049/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports 2 HD tvg-name="Fox Sports 2 HD " tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/foxsports.png" group-title="Canais | ESPORTES",Fox Sports 2 HD
+http://191.97.14.38:4000/play/a04e/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports 3 HD tvg-name="Fox Sports 3 HD " tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/foxsports.png" group-title="Canais | ESPORTES",Fox Sports 3 HD
+http://191.97.14.38:4000/play/a01h/index.m3u8
+
+#EXTINF:-1 tvg-id="Win Sports+ HD tvg-name="Win Sports+ HD" tvg-logo="https://logowik.com/content/uploads/images/win-sports6956.logowik.com.webp" group-title="Canais | ESPORTES",Win Sports+ HD
+http://191.97.14.38:4000/play/a047/index.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="Canais | ESPORTES",Band Sports HD
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
@@ -321,11 +333,11 @@ https://live.sdfgnksbounce.com:8080/NDUuMjI2LjIzNC4xOQ==/11_.m3u8?token=2zCjRqWW
 
 ############################################################################ CANAIS SKY
 
-#EXTINF:-1 tvg-id="Sky Sports 1" tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-sky-sports-1-free-download-PNG.png" group-title="Canais | ESPORTES",Sky Sports 1
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73125
+#EXTINF:-1 tvg-id="Sky Sports " tvg-logo="https://img.utdstc.com/icon/af6/399/af63994e7eea557010d8bb221bdb603193cca3d0d357a5e6f0f8bd41af8cc098:200" group-title="Canais | ESPORTES",Sky Sports 
+http://181.78.105.146:2000/play/a08m/index.m3u8
 
-#EXTINF:-1 tvg-id="Sky Sports 2" tvg-logo="https://getlogo.net/wp-content/uploads/2020/04/sky-sports-2-logo-vector.png" group-title="Canais | ESPORTES",Sky Sports 2
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73126
+#EXTINF:-1 tvg-id="Sky Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeNp9PM2jMpJEqTtP1xli9bpfOj6z6kUTiPTEOdMUXfMrdYiAVPC--dmGpfB37Opm0PNk&usqp=CAU" group-title="Canais | ESPORTES",Sky Sports 1
+http://176.10.117.3:5000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-id="Sky Sports 3" tvg-logo="https://seeklogo.com/images/S/SKY_sports-logo-7927A94612-seeklogo.com.png" group-title="Canais | ESPORTES",Sky Sports 3
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73127
@@ -361,6 +373,8 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18261
 
 
 ############################################################################ AO VIVO 
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/d/a/2/da2fe26bbababdecd70caa4a18ca5198_icon.png" group-title="ao vivo | FUTEBOL",GOL PLAY
+http://45.159.14.109:4022/udp/239.194.0.36:3301
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV HD
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/33
@@ -1985,34 +1999,33 @@ https://alukard.bio/a1/out/6/3825/3825_percy-jackson-e-os-olimpianos-s01e07-web-
 #EXTINF:-1 tvg-logo="https://i.topflix.fm/testme/dle2/posts/2024-01/63zVMAA4oxz9N8EnkNdR8gpyjKf.jpg" group-title="Série | Percy Jackson e os Olimpianos S01",S01 E08
 https://alukard.bio/a1/out/6/3825/3825_percy-jackson-e-os-olimpianos-s01e08-web-dl-1080p-x264-dual-5.1.m3u8
 
-################################################################# Série | Sr. & Sra. Smith S01
+################################################# ############### SR & SRA SMITH S01
 
-#EXTINF:-1 tvg-logo="https://i.topflix.fm/testme/dle2/posts/2024-02/jYsfWIfHLKo3SLHRjVQUbqQprSu.jpg" group-title="Série | Sr. & Sra. Smith S01",S01 E01
-https://alukard.bio/a1/out/6/3898/3898_sr.-sra.-smith-s01e01-web-dl-1080p-x264-dual-5.1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/suniXX7.png" group-title="Série | SR & SRA SMITH S01",S01 E01
+http://shd9.mflixhd.xyz/token/SHD9/118642/1x1.mp4
 
-#EXTINF:-1 tvg-logo="https://i.topflix.fm/testme/dle2/posts/2024-02/jYsfWIfHLKo3SLHRjVQUbqQprSu.jpg" group-title="Série | Sr. & Sra. Smith S01",S01 E02
-https://alukard.bio/a1/out/6/3898/3898_sr.-sra.-smith-s01e02-web-dl-1080p-x264-dual-5.1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/suniXX7.png" group-title="Série | SR & SRA SMITH S01",S01 E02
+http://shd9.mflixhd.xyz/token/SHD9/118642/1x2.mp4
 
-#EXTINF:-1 tvg-logo="https://i.topflix.fm/testme/dle2/posts/2024-02/jYsfWIfHLKo3SLHRjVQUbqQprSu.jpg" group-title="Série | Sr. & Sra. Smith S01",S01 E03
-https://alukard.bio/a1/out/6/3898/3898_sr.-sra.-smith-s01e03-web-dl-1080p-x264-dual-5.1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/suniXX7.png" group-title="Série | SR & SRA SMITH S01",S01 E03
+http://shd9.mflixhd.xyz/token/SHD9/118642/1x3.mp4
 
-#EXTINF:-1 tvg-logo="https://i.topflix.fm/testme/dle2/posts/2024-02/jYsfWIfHLKo3SLHRjVQUbqQprSu.jpg" group-title="Série | Sr. & Sra. Smith S01",S01 E04
-https://alukard.bio/a1/out/6/3898/3898_sr.-sra.-smith-s01e04-web-dl-1080p-x264-dual-5.1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/suniXX7.png" group-title="Série | SR & SRA SMITH S01",S01 E04
+http://shd9.mflixhd.xyz/token/SHD9/118642/1x4.mp4
 
-#EXTINF:-1 tvg-logo="https://i.topflix.fm/testme/dle2/posts/2024-02/jYsfWIfHLKo3SLHRjVQUbqQprSu.jpg" group-title="Série | Sr. & Sra. Smith S01",S01 E05
-https://alukard.bio/a1/out/6/3898/3898_sr.-sra.-smith-s01e05-web-dl-1080p-x264-dual-5.1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/suniXX7.png" group-title="Série | SR & SRA SMITH S01",S01 E05
+http://shd9.mflixhd.xyz/token/SHD9/118642/1x5.mp4
 
-#EXTINF:-1 tvg-logo="https://i.topflix.fm/testme/dle2/posts/2024-02/jYsfWIfHLKo3SLHRjVQUbqQprSu.jpg" group-title="Série | Sr. & Sra. Smith S01",S01 E06
-https://alukard.bio/a1/out/6/3898/3898_sr.-sra.-smith-s01e06-web-dl-1080p-x264-dual-5.1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/suniXX7.png" group-title="Série | SR & SRA SMITH S01",S01 E06
+http://shd9.mflixhd.xyz/token/SHD9/118642/1x6.mp4
 
-#EXTINF:-1 tvg-logo="https://i.topflix.fm/testme/dle2/posts/2024-02/jYsfWIfHLKo3SLHRjVQUbqQprSu.jpg" group-title="Série | Sr. & Sra. Smith S01",S01 E07
-https://alukard.bio/a1/out/6/3898/3898_sr.-sra.-smith-s01e07-web-dl-1080p-x264-dual-5.1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/suniXX7.png" group-title="Série | SR & SRA SMITH S01",S01 E07
+http://shd9.mflixhd.xyz/token/SHD9/118642/1x7.mp4
 
-#EXTINF:-1 tvg-logo="https://i.topflix.fm/testme/dle2/posts/2024-02/jYsfWIfHLKo3SLHRjVQUbqQprSu.jpg" group-title="Série | Sr. & Sra. Smith S01",S01 E08
-https://alukard.bio/a1/out/6/3898/3898_sr.-sra.-smith-s01e08-web-dl-1080p-x264-dual-5.1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/suniXX7.png" group-title="Série | SR & SRA SMITH S01",S01 E08
+http://shd9.mflixhd.xyz/token/SHD9/118642/1x8.mp4
 
-
-################################################################# GRISELDA S01
+################################################# ###############GRISELDA S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wl4W2Q0.png" group-title="Série | GRISELDA S01",S01 E01
 http://shd9.mflixhd.xyz/token/SHD9/137893/1x1.mp4
@@ -2032,7 +2045,7 @@ http://shd9.mflixhd.xyz/token/SHD9/137893/1x5.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wl4W2Q0.png" group-title="Série | GRISELDA S01",S01 E06
 http://shd9.mflixhd.xyz/token/SHD9/137893/1x6.mp4
 
-################################################################# ZORRO S01
+################################################# ############### ZORRO S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1WL59LL.png" group-title="Série | ZORRO S01",S01 E01
 http://shd9.mflixhd.xyz/token/SHD9/228477/1x1.mp4
@@ -2064,7 +2077,7 @@ http://shd9.mflixhd.xyz/token/SHD9/228477/1x9.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1WL59LL.png" group-title="Série | ZORRO S01",S01 E10
 http://shd9.mflixhd.xyz/token/SHD9/228477/1x10.mp4
 
-################################################################# ECHO S01
+################################################# ############### ECO S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDTpDmJ.png" group-title="Série | ECO S01",S01 E01
 http://shd9.mflixhd.xyz/token/SHD9/122226/1x1.mp4
@@ -2081,7 +2094,7 @@ http://shd9.mflixhd.xyz/token/SHD9/122226/1x4.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDTpDmJ.png" group-title="Série | ECO S01",S01 E05
 http://shd9.mflixhd.xyz/token/SHD9/122226/1x5.mp4
 
-################################################################# REACHER S01
+################################################# ############### REACHER S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fx8jFzS.png" group-title="Série | REACHER S01",S01 E01
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/108978/1x1.mp4
@@ -2107,7 +2120,7 @@ http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/108978/1x7.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fx8jFzS.png" group-title="Série | REACHER S01",S01 E08
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/108978/1x8.mp4
 
-################################################################# REACHER S02
+################################################# ############### REACHER S02
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EStUWAx.png" group-title="Série | REACHER S02",S02 E01
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/108978/2x1.mp4
@@ -2130,7 +2143,7 @@ http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/108978/2x6.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EStUWAx.png" group-title="Série | REACHER S02",S02 E07
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/108978/2x7.mp4
 
-################################################################# D VOLTA AOS ANOS 90 S01
+################################################# ############### D VOLTA AOS ANOS 90 S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z3uesN6.png" group-title="Série | D VOLTA AOS ANOS 90 S01",S01 E01
 http://shd8.mflixhd.xyz/rgdfgret43tfawd32fvdsf/SHD8/135959/1x1.mp4
@@ -2162,7 +2175,7 @@ http://shd8.mflixhd.xyz/rgdfgret43tfawd32fvdsf/SHD8/135959/1x9.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z3uesN6.png" group-title="Série | D VOLTA AOS ANOS 90 S01",S01 E10
 http://shd8.mflixhd.xyz/rgdfgret43tfawd32fvdsf/SHD8/135959/1x10.mp4
 
-################################################################# LA CASA DE PAPEL BERLIM 90 S01
+################################################# ############### LA CASA DE PAPEL BERLIM 90 S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UURg0ai.png" group-title="Série | LA CASA D PAPEL BERLIM S01",S01 E01
 http://shd9.mflixhd.xyz/token/SHD9/146176/1x1.mp4
@@ -2188,7 +2201,7 @@ http://shd9.mflixhd.xyz/token/SHD9/146176/1x7.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UURg0ai.png" group-title="Série | LA CASA D PAPEL BERLIM S01",S01 E08
 http://shd9.mflixhd.xyz/token/SHD9/146176/1x8.mp4
 
-################################################################# O BABÁ  S01
+################################################# ############### O BABÁ S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LbYCTNU.png" group-title="Série | O BABÁ S01",S01 E01
 http://shd9.mflixhd.xyz/token/SHD9/241373/1x1.mp4
@@ -2220,7 +2233,7 @@ http://shd9.mflixhd.xyz/token/SHD9/241373/1x9.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LbYCTNU.png" group-title="Série | O BABÁ S01",S01 E10
 http://shd9.mflixhd.xyz/token/SHD9/241373/1x10.mp4
 
-################################################################# FBI: OS MAIS PROCURADOS S01
+################################################# ############### FBI: OS MAIS PROCURADOS S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eB7FZ7k.png" group-title="Série | FBI: OS MAIS PROCURADOS S01",S01 E01
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/94372/1x1.mp4
@@ -2264,7 +2277,7 @@ http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/94372/1x13.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eB7FZ7k.png" group-title="Série | FBI: OS MAIS PROCURADOS S01",S01 E14
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/94372/1x14.mp4
 
-################################################################# FBI: OS MAIS PROCURADOS S02
+################################################# ############### FBI: OS MAIS PROCURADOS S02
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eB7FZ7k.png" group-title="Série | FBI: OS MAIS PROCURADOS S02",S02 E01
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/94372/2x1.mp4
@@ -2311,7 +2324,7 @@ http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/94372/2x14.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eB7FZ7k.png" group-title="Série | FBI: OS MAIS PROCURADOS S02",S02 E15
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/94372/2x15.mp4
 
-################################################################# FBI: OS MAIS PROCURADOS S03
+################################################# ############### FBI: OS MAIS PROCURADOS S03
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eB7FZ7k.png" group-title="Série | FBI: OS MAIS PROCURADOS S03",S03 E01
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/94372/3x1.mp4
@@ -2379,7 +2392,7 @@ http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/94372/3x21.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eB7FZ7k.png" group-title="Série | FBI: OS MAIS PROCURADOS S03",S03 E22
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/94372/3x22.mp4
 
-################################################################# FBI: OS MAIS PROCURADOS S04
+################################################# ############### FBI: OS MAIS PROCURADOS S04
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eB7FZ7k.png" group-title="Série | FBI: OS MAIS PROCURADOS S04",S04 E01
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/94372/4x1.mp4
@@ -2447,316 +2460,316 @@ http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/94372/4x21.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eB7FZ7k.png" group-title="Série | FBI: OS MAIS PROCURADOS S04",S04 E22
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/94372/4x22.mp4
 
-############################################################################ WOLF PACK 01
+################################################# ######################### PACOTE DE LOBO 01
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/wMstLkc.png" group-title="Serie | WOLF PACK S01",S01 E01
-http://shd8.mflixhd.xyz/rgdfgret43tfawd32fvdsf/SHD8/134865/1x1.mp4 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/wMstLkc.png" group-title="Série | WOLF PACK S01",S01 E01
+http://shd8.mflixhd.xyz/rgdfgret43tfawd32fvdsf/SHD8/134865/1x1.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/wMstLkc.png" group-title="Serie | WOLF PACK S01",S01 E02
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/wMstLkc.png" group-title="Série | WOLF PACK S01",S01 E02
 http://shd8.mflixhd.xyz/rgdfgret43tfawd32fvdsf/SHD8/134865/1x2.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/wMstLkc.png" group-title="Serie | WOLF PACK S01",S01 E03
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/wMstLkc.png" group-title="Série | WOLF PACK S01",S01 E03
 http://shd8.mflixhd.xyz/rgdfgret43tfawd32fvdsf/SHD8/134865/1x3.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/wMstLkc.png" group-title="Serie | WOLF PACK S01",S01 E04
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/wMstLkc.png" group-title="Série | WOLF PACK S01",S01 E04
 http://shd8.mflixhd.xyz/rgdfgret43tfawd32fvdsf/SHD8/134865/1x4.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/wMstLkc.png" group-title="Serie | WOLF PACK S01",S01 E05
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/wMstLkc.png" group-title="Série | WOLF PACK S01",S01 E05
 http://shd8.mflixhd.xyz/rgdfgret43tfawd32fvdsf/SHD8/134865/1x5.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/wMstLkc.png" group-title="Serie | WOLF PACK S01",S01 E06
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/wMstLkc.png" group-title="Série | WOLF PACK S01",S01 E06
 http://shd8.mflixhd.xyz/rgdfgret43tfawd32fvdsf/SHD8/134865/1x6.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/wMstLkc.png" group-title="Serie | WOLF PACK S01",S01 E07
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/wMstLkc.png" group-title="Série | WOLF PACK S01",S01 E07
 http://shd8.mflixhd.xyz/rgdfgret43tfawd32fvdsf/SHD8/134865/1x7.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/wMstLkc.png" group-title="Serie | WOLF PACK S01",S01 E08
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/wMstLkc.png" group-title="Série | WOLF PACK S01",S01 E08
 http://shd8.mflixhd.xyz/rgdfgret43tfawd32fvdsf/SHD8/134865/1x8.mp4
 
-############################################################################ ALICE IN BORDELAND S01
+################################################# ######################### ALICE EM BORDELAND S01
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/CpWCiYQ.png" group-title="Serie | ALICE IN BORDELAND S01",S01 E01
-http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/110316/1x1.mp4 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CpWCiYQ.png" group-title="Série | ALICE IN BORDELAND S01",S01 E01
+http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/110316/1x1.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/CpWCiYQ.png" group-title="Serie | ALICE IN BORDELAND S01",S01 E02
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CpWCiYQ.png" group-title="Série | ALICE IN BORDELAND S01",S01 E02
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/110316/1x2.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/CpWCiYQ.png" group-title="Serie | ALICE IN BORDELAND S01",S01 E03
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CpWCiYQ.png" group-title="Série | ALICE IN BORDELAND S01",S01 E03
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/110316/1x3.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/CpWCiYQ.png" group-title="Serie | ALICE IN BORDELAND S01",S01 E04
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CpWCiYQ.png" group-title="Série | ALICE IN BORDELAND S01",S01 E04
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/110316/1x4.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/CpWCiYQ.png" group-title="Serie | ALICE IN BORDELAND S01",S01 E05
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CpWCiYQ.png" group-title="Série | ALICE IN BORDELAND S01",S01 E05
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/110316/1x5.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/CpWCiYQ.png" group-title="Serie | ALICE IN BORDELAND S01",S01 E06
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CpWCiYQ.png" group-title="Série | ALICE IN BORDELAND S01",S01 E06
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/110316/1x6.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/CpWCiYQ.png" group-title="Serie | ALICE IN BORDELAND S01",S01 E07
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CpWCiYQ.png" group-title="Série | ALICE IN BORDELAND S01",S01 E07
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/110316/1x7.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/CpWCiYQ.png" group-title="Serie | ALICE IN BORDELAND S01",S01 E08
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CpWCiYQ.png" group-title="Série | ALICE IN BORDELAND S01",S01 E08
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/110316/1x8.mp4
 
-############################################################################ ALICE IN BORDELAND S02
+################################################# ######################### ALICE EM BORDELAND S02
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/WFmGoBu.png" group-title="Serie | ALICE IN BORDELAND S02",S02 E01
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WFmGoBu.png" group-title="Série | ALICE IN BORDELAND S02",S02 E01
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/110316/2x1.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/WFmGoBu.png" group-title="Serie | ALICE IN BORDELAND S02",S02 E02
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WFmGoBu.png" group-title="Série | ALICE IN BORDELAND S02",S02 E02
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/110316/2x.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/WFmGoBu.png" group-title="Serie | ALICE IN BORDELAND S02",S02 E03
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WFmGoBu.png" group-title="Série | ALICE IN BORDELAND S02",S02 E03
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/110316/2x3.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/WFmGoBu.png" group-title="Serie | ALICE IN BORDELAND S02",S02 E04
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WFmGoBu.png" group-title="Série | ALICE IN BORDELAND S02",S02 E04
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/110316/2x4.mp4
  
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/WFmGoBu.png" group-title="Serie | ALICE IN BORDELAND S02",S02 E05
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WFmGoBu.png" group-title="Série | ALICE IN BORDELAND S02",S02 E05
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/110316/2x5.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/WFmGoBu.png" group-title="Serie | ALICE IN BORDELAND S02",S02 E06
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WFmGoBu.png" group-title="Série | ALICE IN BORDELAND S02",S02 E06
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/110316/2x6.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/WFmGoBu.png" group-title="Serie | ALICE IN BORDELAND S02",S02 E07
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WFmGoBu.png" group-title="Série | ALICE IN BORDELAND S02",S02 E07
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/110316/2x7.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/WFmGoBu.png" group-title="Serie | ALICE IN BORDELAND S02",S02 E08
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WFmGoBu.png" group-title="Série | ALICE IN BORDELAND S02",S02 E08
 http://shd1.mflixhd.xyz/sfgerg54yrt/SHD1/110316/2x8.mp4
 
-############################################################################ HEARTSTOPPER 01
+################################################# ######################### HEARTSTOPPER 01
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/IMwtPc0.png" group-title="Serie | HEARTSTOPPER S01",S01 E01
-http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124834/1x1.mp4 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IMwtPc0.png" group-title="Série | HEARTSTOPPER S01",S01 E01
+http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124834/1x1.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/IMwtPc0.png" group-title="Serie | HEARTSTOPPER S01",S01 E02
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IMwtPc0.png" group-title="Série | HEARTSTOPPER S01",S01 E02
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124834/1x2.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/IMwtPc0.png" group-title="Serie | HEARTSTOPPER S01",S01 E03
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IMwtPc0.png" group-title="Série | HEARTSTOPPER S01",S01 E03
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124834/1x3.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/IMwtPc0.png" group-title="Serie | HEARTSTOPPER S01",S01 E04
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IMwtPc0.png" group-title="Série | HEARTSTOPPER S01",S01 E04
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124834/1x4.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/IMwtPc0.png" group-title="Serie | HEARTSTOPPER S01",S01 E05
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IMwtPc0.png" group-title="Série | HEARTSTOPPER S01",S01 E05
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124834/1x5.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/IMwtPc0.png" group-title="Serie | HEARTSTOPPER S01",S01 E06
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IMwtPc0.png" group-title="Série | HEARTSTOPPER S01",S01 E06
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124834/1x6.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/IMwtPc0.png" group-title="Serie | HEARTSTOPPER S01",S01 E07
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IMwtPc0.png" group-title="Série | HEARTSTOPPER S01",S01 E07
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124834/1x7.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/IMwtPc0.png" group-title="Serie | HEARTSTOPPER S01",S01 E08
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IMwtPc0.png" group-title="Série | HEARTSTOPPER S01",S01 E08
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124834/1x8.mp4
 
-############################################################################ HEARTSTOPPER 02
+################################################# ######################### HEARTSTOPPER 02
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/rew8Jzg.png" group-title="Serie | HEARTSTOPPER S02",S02 E01
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rew8Jzg.png" group-title="Série | HEARTSTOPPER S02",S02 E01
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124834/2x1.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/rew8Jzg.png" group-title="Serie | HEARTSTOPPER S02",S02 E02
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rew8Jzg.png" group-title="Série | HEARTSTOPPER S02",S02 E02
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124834/2x2.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/rew8Jzg.png" group-title="Serie | HEARTSTOPPER S02",S02 E03
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rew8Jzg.png" group-title="Série | HEARTSTOPPER S02",S02 E03
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124834/2x3.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/rew8Jzg.png" group-title="Serie | HEARTSTOPPER S02",S02 E04
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rew8Jzg.png" group-title="Série | HEARTSTOPPER S02",S02 E04
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124834/2x4.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/rew8Jzg.png" group-title="Serie | HEARTSTOPPER S02",S02 E05
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rew8Jzg.png" group-title="Série | HEARTSTOPPER S02",S02 E05
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124834/2x5.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/rew8Jzg.png" group-title="Serie | HEARTSTOPPER S02",S02 E06
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rew8Jzg.png" group-title="Série | HEARTSTOPPER S02",S02 E06
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124834/2x6.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/rew8Jzg.png" group-title="Serie | HEARTSTOPPER S02",S02 E07
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rew8Jzg.png" group-title="Série | HEARTSTOPPER S02",S02 E07
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124834/2x7.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/rew8Jzg.png" group-title="Serie | HEARTSTOPPER S02",S02 E08
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rew8Jzg.png" group-title="Série | HEARTSTOPPER S02",S02 E08
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124834/2x8.mp4
 
-############################################################################  O CONTINENTAL: DO MUNDO D JOHN Wick S01
+################################################# ########################## O CONTINENTAL: DO MUNDO D JOHN Wick S01
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/FzqvXeB.png" group-title="Serie | CONTINENTAL: DO MUNDO D JOHN Wick S01",S01 E01
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/FzqvXeB.png" group-title="Série | CONTINENTAL: DO MUNDO D JOHN Wick S01",S01 E01
 http://shd9.mflixhd.xyz/token/SHD9/72710/1x1.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/FzqvXeB.png" group-title="Serie | CONTINENTAL: DO MUNDO D JOHN Wick S01",S01 E02
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/FzqvXeB.png" group-title="Série | CONTINENTAL: DO MUNDO D JOHN Wick S01",S01 E02
 http://shd9.mflixhd.xyz/token/SHD9/72710/1x2.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/FzqvXeB.png" group-title="Serie | CONTINENTAL: DO MUNDO D JOHN Wick S01",S01 E03
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/FzqvXeB.png" group-title="Série | CONTINENTAL: DO MUNDO D JOHN Wick S01",S01 E03
 http://shd9.mflixhd.xyz/token/SHD9/72710/1x3.mp4
 
-############################################################################  LOKI S01
+################################################# ######################### LOKI S01
 
-#EXTINF:-1 tvg-logo="https://imgur.com/WAKWAwY.png" group-title="Serie | LOKI S01",S01 E01
+#EXTINF:-1 tvg-logo="https://imgur.com/WAKWAwY.png" group-title="Série | LOKI S01",S01 E01
 http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/84958/1x1.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/WAKWAwY.png" group-title="Serie | LOKI S01",S01 E02
+#EXTINF:-1 tvg-logo="https://imgur.com/WAKWAwY.png" group-title="Série | LOKI S01",S01 E02
 http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/84958/1x2.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/WAKWAwY.png" group-title="Serie | LOKI S01",S01 E03
+#EXTINF:-1 tvg-logo="https://imgur.com/WAKWAwY.png" group-title="Série | LOKI S01",S01 E03
 http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/84958/1x3.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/WAKWAwY.png" group-title="Serie | LOKI S01",S01 E04
+#EXTINF:-1 tvg-logo="https://imgur.com/WAKWAwY.png" group-title="Série | LOKI S01",S01 E04
 http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/84958/1x4.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/WAKWAwY.png" group-title="Serie | LOKI S01",S01 E05
+#EXTINF:-1 tvg-logo="https://imgur.com/WAKWAwY.png" group-title="Série | LOKI S01",S01 E05
 http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/84958/1x5.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/WAKWAwY.png" group-title="Serie | LOKI S01",S01 E06
+#EXTINF:-1 tvg-logo="https://imgur.com/WAKWAwY.png" group-title="Série | LOKI S01",S01 E06
 http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/84958/1x6.mp4
 
-############################################################################  LOKI S02
+################################################# ######################### LOKI S02
 
-#EXTINF:-1 tvg-logo="https://imgur.com/XOkhNXR.png" group-title="Serie | LOKI S02",S02 E01
+#EXTINF:-1 tvg-logo="https://imgur.com/XOkhNXR.png" group-title="Série | LOKI S02",S02 E01
 http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/84958/2x1.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/XOkhNXR.png" group-title="Serie | LOKI S02",S02 E02
+#EXTINF:-1 tvg-logo="https://imgur.com/XOkhNXR.png" group-title="Série | LOKI S02",S02 E02
 http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/84958/2x2.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/XOkhNXR.png" group-title="Serie | LOKI S02",S02 E03
+#EXTINF:-1 tvg-logo="https://imgur.com/XOkhNXR.png" group-title="Série | LOKI S02",S02 E03
 http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/84958/2x3.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/XOkhNXR.png" group-title="Serie | LOKI S02",S02 E04
+#EXTINF:-1 tvg-logo="https://imgur.com/XOkhNXR.png" group-title="Série | LOKI S02",S02 E04
 http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/84958/2x4.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/XOkhNXR.png" group-title="Serie | LOKI S02",S02 E05
+#EXTINF:-1 tvg-logo="https://imgur.com/XOkhNXR.png" group-title="Série | LOKI S02",S02 E05
 http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/84958/2x5.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/XOkhNXR.png" group-title="Serie | LOKI S02",S02 E06
+#EXTINF:-1 tvg-logo="https://imgur.com/XOkhNXR.png" group-title="Série | LOKI S02",S02 E06
 http://shd2.mflixhd.xyz/sfgfe34ew32r/SHD2/84958/2x6.mp4
 
-############################################################################  GEN V S01
+################################################# ######################### GEN V S01
 
-#EXTINF:-1 tvg-logo="https://imgur.com/4uvl3wy.png" group-title="Serie | GEN V S01",S01 E01
+#EXTINF:-1 tvg-logo="https://imgur.com/4uvl3wy.png" group-title="Série | GEN V S01",S01 E01
 http://shd9.mflixhd.xyz/token/SHD9/205715/1x1.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/4uvl3wy.png" group-title="Serie | GEN V S01",S01 E02
+#EXTINF:-1 tvg-logo="https://imgur.com/4uvl3wy.png" group-title="Série | GEN V S01",S01 E02
 http://shd9.mflixhd.xyz/token/SHD9/205715/1x2.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/4uvl3wy.png" group-title="Serie | GEN V S01",S01 E03
+#EXTINF:-1 tvg-logo="https://imgur.com/4uvl3wy.png" group-title="Série | GEN V S01",S01 E03
 http://shd9.mflixhd.xyz/token/SHD9/205715/1x3.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/4uvl3wy.png" group-title="Serie | GEN V S01",S01 E04
+#EXTINF:-1 tvg-logo="https://imgur.com/4uvl3wy.png" group-title="Série | GEN V S01",S01 E04
 http://shd9.mflixhd.xyz/token/SHD9/205715/1x4.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/4uvl3wy.png" group-title="Serie | GEN V S01",S01 E05
+#EXTINF:-1 tvg-logo="https://imgur.com/4uvl3wy.png" group-title="Série | GEN V S01",S01 E05
 http://shd9.mflixhd.xyz/token/SHD9/205715/1x5.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/4uvl3wy.png" group-title="Serie | GEN V S01",S01 E06
+#EXTINF:-1 tvg-logo="https://imgur.com/4uvl3wy.png" group-title="Série | GEN V S01",S01 E06
 http://shd9.mflixhd.xyz/token/SHD9/205715/1x6.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/4uvl3wy.png" group-title="Serie | GEN V S01",S01 E07
+#EXTINF:-1 tvg-logo="https://imgur.com/4uvl3wy.png" group-title="Série | GEN V S01",S01 E07
 http://shd9.mflixhd.xyz/token/SHD9/205715/1x7.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/4uvl3wy.png" group-title="Serie | GEN V S01",S01 E08
+#EXTINF:-1 tvg-logo="https://imgur.com/4uvl3wy.png" group-title="Série | GEN V S01",S01 E08
 http://shd9.mflixhd.xyz/token/SHD9/205715/1x8.mp4
 
-############################################################################  CANGAÇO NOVO S01
+################################################# ######################### CANGAÇO NOVO S01
 
-#EXTINF:-1 tvg-logo="https://imgur.com/NldR7SA.png" group-title="Serie | CANGAÇO NOVO S01",S01 E01
+#EXTINF:-1 tvg-logo="https://imgur.com/NldR7SA.png" group-title="Série | CANGAÇO NOVO S01",S01 E01
 http://shd9.mflixhd.xyz/token/SHD9/137883/1x1.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/NldR7SA.png" group-title="Serie | CANGAÇO NOVO S01",S01 E02
+#EXTINF:-1 tvg-logo="https://imgur.com/NldR7SA.png" group-title="Série | CANGAÇO NOVO S01",S01 E02
 http://shd9.mflixhd.xyz/token/SHD9/137883/1x2.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/NldR7SA.png" group-title="Serie | CANGAÇO NOVO S01",S01 E03
+#EXTINF:-1 tvg-logo="https://imgur.com/NldR7SA.png" group-title="Série | CANGAÇO NOVO S01",S01 E03
 http://shd9.mflixhd.xyz/token/SHD9/137883/1x3.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/NldR7SA.png" group-title="Serie | CANGAÇO NOVO S01",S01 E04
+#EXTINF:-1 tvg-logo="https://imgur.com/NldR7SA.png" group-title="Série | CANGAÇO NOVO S01",S01 E04
 http://shd9.mflixhd.xyz/token/SHD9/137883/1x4.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/NldR7SA.png" group-title="Serie | CANGAÇO NOVO S01",S01 E05
+#EXTINF:-1 tvg-logo="https://imgur.com/NldR7SA.png" group-title="Série | CANGAÇO NOVO S01",S01 E05
 http://shd9.mflixhd.xyz/token/SHD9/137883/1x5.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/NldR7SA.png" group-title="Serie | CANGAÇO NOVO S01",S01 E06
+#EXTINF:-1 tvg-logo="https://imgur.com/NldR7SA.png" group-title="Série | CANGAÇO NOVO S01",S01 E06
 http://shd9.mflixhd.xyz/token/SHD9/137883/1x6.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/NldR7SA.png" group-title="Serie | CANGAÇO NOVO S01",S01 E07
+#EXTINF:-1 tvg-logo="https://imgur.com/NldR7SA.png" group-title="Série | CANGAÇO NOVO S01",S01 E07
 http://shd9.mflixhd.xyz/token/SHD9/137883/1x7.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/NldR7SA.png" group-title="Serie | CANGAÇO NOVO S01",S01 E08
+#EXTINF:-1 tvg-logo="https://imgur.com/NldR7SA.png" group-title="Série | CANGAÇO NOVO S01",S01 E08
 http://shd9.mflixhd.xyz/token/SHD9/137883/1x9.mp4
 
-############################################################################  QUEM É ERIN CARTER? S01
+################################################# ######################### QUEM É ERIN CARTER? S01
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/ynKYIRd.png" group-title="Serie | QUEM É ERIN CARTER? S01",S01 E01
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/ynKYIRd.png" group-title="Série | QUEM É ERIN CARTER? S01",S01 E01
 http://shd9.mflixhd.xyz/token/SHD9/227318/1x1.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/ynKYIRd.png" group-title="Serie | QUEM É ERIN CARTER? S01",S01 E02
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/ynKYIRd.png" group-title="Série | QUEM É ERIN CARTER? S01",S01 E02
 http://shd9.mflixhd.xyz/token/SHD9/227318/1x2.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/ynKYIRd.png" group-title="Serie | QUEM É ERIN CARTER? S01",S01 E03
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/ynKYIRd.png" group-title="Série | QUEM É ERIN CARTER? S01",S01 E03
 http://shd9.mflixhd.xyz/token/SHD9/227318/1x3.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/ynKYIRd.png" group-title="Serie | QUEM É ERIN CARTER? S01",S01 E04
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/ynKYIRd.png" group-title="Série | QUEM É ERIN CARTER? S01",S01 E04
 http://shd9.mflixhd.xyz/token/SHD9/227318/1x4.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/ynKYIRd.png" group-title="Serie | QUEM É ERIN CARTER? S01",S01 E05
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/ynKYIRd.png" group-title="Série | QUEM É ERIN CARTER? S01",S01 E05
 http://shd9.mflixhd.xyz/token/SHD9/227318/1x5.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/ynKYIRd.png" group-title="Serie | QUEM É ERIN CARTER? S01",S01 E06
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/ynKYIRd.png" group-title="Série | QUEM É ERIN CARTER? S01",S01 E06
 http://shd9.mflixhd.xyz/token/SHD9/227318/1x6.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/ynKYIRd.png" group-title="Serie | QUEM É ERIN CARTER? S01",S01 E07
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/ynKYIRd.png" group-title="Série | QUEM É ERIN CARTER? S01",S01 E07
 http://shd9.mflixhd.xyz/token/SHD9/227318/1x7.mp4
 
-############################################################################  ONE PIECE S01
+################################################# ######################### UMA PEÇA S01
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/PCAxauG.png" group-title="Serie | ONE PIECE S01",S01 E01
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/PCAxauG.png" group-title="Série | ONE PIECE S01",S01 E01
 http://shd9.mflixhd.xyz/token/SHD9/111110/1x1.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/PCAxauG.png" group-title="Serie | ONE PIECE S01",S01 E02
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/PCAxauG.png" group-title="Série | ONE PIECE S01",S01 E02
 http://shd9.mflixhd.xyz/token/SHD9/111110/1x2.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/PCAxauG.png" group-title="Serie | ONE PIECE S01",S01 E03
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/PCAxauG.png" group-title="Série | ONE PIECE S01",S01 E03
 http://shd9.mflixhd.xyz/token/SHD9/111110/1x3.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/PCAxauG.png" group-title="Serie | ONE PIECE S01",S01 E04
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/PCAxauG.png" group-title="Série | ONE PIECE S01",S01 E04
 http://shd9.mflixhd.xyz/token/SHD9/111110/1x4.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/PCAxauG.png" group-title="Serie | ONE PIECE S01",S01 E05
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/PCAxauG.png" group-title="Série | ONE PIECE S01",S01 E05
 http://shd9.mflixhd.xyz/token/SHD9/111110/1x5.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/PCAxauG.png" group-title="Serie | ONE PIECE S01",S01 E06
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/PCAxauG.png" group-title="Série | ONE PIECE S01",S01 E06
 http://shd9.mflixhd.xyz/token/SHD9/111110/1x6.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/PCAxauG.png" group-title="Serie | ONE PIECE S01",S01 E07
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/PCAxauG.png" group-title="Série | ONE PIECE S01",S01 E07
 http://shd9.mflixhd.xyz/token/SHD9/111110/1x7.mp4
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/PCAxauG.png" group-title="Serie | ONE PIECE S01",S01 E08
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/PCAxauG.png" group-title="Série | ONE PIECE S01",S01 E08
 http://shd9.mflixhd.xyz/token/SHD9/111110/1x8.mp4
 
-############################################################################  B.O S01
+################################################# ######################### BO S01
 
-#EXTINF:-1  tvg-logo="https://imgur.com/nK0SOFd.png" group-title="Serie | B.O S01",S01 E01
+#EXTINF:-1 tvg-logo="https://imgur.com/nK0SOFd.png" group-title="Série | BO S01",S01 E01
 http://shd9.mflixhd.xyz/token/SHD9/232644/1x1.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/nK0SOFd.png" group-title="Serie | B.O S01",S01 E02
+#EXTINF:-1 tvg-logo="https://imgur.com/nK0SOFd.png" group-title="Série | BO S01",S01 E02
 http://shd9.mflixhd.xyz/token/SHD9/232644/1x2.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/nK0SOFd.png" group-title="Serie | B.O S01",S01 E03
+#EXTINF:-1 tvg-logo="https://imgur.com/nK0SOFd.png" group-title="Série | BO S01",S01 E03
 http://shd9.mflixhd.xyz/token/SHD9/232644/1x3.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/nK0SOFd.png" group-title="Serie | B.O S01",S01 E04
+#EXTINF:-1 tvg-logo="https://imgur.com/nK0SOFd.png" group-title="Série | BO S01",S01 E04
 http://shd9.mflixhd.xyz/token/SHD9/232644/1x4.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/nK0SOFd.png" group-title="Serie | B.O S01",S01 E05
+#EXTINF:-1 tvg-logo="https://imgur.com/nK0SOFd.png" group-title="Série | BO S01",S01 E05
 http://shd9.mflixhd.xyz/token/SHD9/232644/1x5.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/nK0SOFd.png" group-title="Serie | B.O S01",S01 E06
+#EXTINF:-1 tvg-logo="https://imgur.com/nK0SOFd.png" group-title="Série | BO S01",S01 E06
 http://shd9.mflixhd.xyz/token/SHD9/232644/1x6.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/nK0SOFd.png" group-title="Serie | B.O S01",S01 E07
+#EXTINF:-1 tvg-logo="https://imgur.com/nK0SOFd.png" group-title="Série | BO S01",S01 E07
 http://shd9.mflixhd.xyz/token/SHD9/232644/1x7.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/nK0SOFd.png" group-title="Serie | B.O S01",S01 E08
+#EXTINF:-1 tvg-logo="https://imgur.com/nK0SOFd.png" group-title="Série | BO S01",S01 E08
 http://shd9.mflixhd.xyz/token/SHD9/232644/1x8.mp4
 
 
-################################################################# PONTO FINAL S01
+################################################# ############### PONTO FINAL S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfJYcIe.png" group-title="Série | PONTO FINAL S01",S01 E01
 http://shd9.mflixhd.xyz/token/SHD9/242396/1x1.mp4
@@ -2779,7 +2792,7 @@ http://shd9.mflixhd.xyz/token/SHD9/242396/1x6.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nfJYcIe.png" group-title="Série | PONTO FINAL S01",S01 E07
 http://shd9.mflixhd.xyz/token/SHD9/242396/1x7.mp4
 
-############################################################################ ORIGEM (FROM)
+################################################# ######################### ORIGEM (DE)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="Série | ORIGEM S01 DUB",S01 E01
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124364/1x1.mp4
@@ -2811,7 +2824,7 @@ http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124364/1x9.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CadxiL9.png" group-title="Série | ORIGEM S01 DUB",S01 E10
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124364/1x10.mp4
 
-############################################################################ ORIGEM (FROM)
+################################################# ######################### ORIGEM (DE)
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 LEG",S02 E01
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124364/2x1LEG.mp4
@@ -2843,30 +2856,30 @@ http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124364/2x9LEG.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y3B1Kb1.png" group-title="Série | ORIGEM S02 LEG",S02 E10
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/124364/2x10LEG.mp4
 
-############################################################################ CITADEL
+################################################# ######################### CIDADELA
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Ggm5YjY.png" group-title="Série | CITADEL",S01 E01
+#EXTINF:-1 tvg-logo="https://imgur.com/Ggm5YjY.png" group-title="Série | CITADELA",S01 E01
 http://shd8.mflixhd.xyz/rgdfgret43tfawd32fvdsf/SHD8/114922/1x1.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Ggm5YjY.png" group-title="Série | CITADEL",S01 E02
+#EXTINF:-1 tvg-logo="https://imgur.com/Ggm5YjY.png" group-title="Série | CITADELA",S01 E02
 http://shd8.mflixhd.xyz/rgdfgret43tfawd32fvdsf/SHD8/114922/1x2.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Ggm5YjY.png" group-title="Série | CITADEL",S01 E03
+#EXTINF:-1 tvg-logo="https://imgur.com/Ggm5YjY.png" group-title="Série | CITADELA",S01 E03
 http://shd8.mflixhd.xyz/rgdfgret43tfawd32fvdsf/SHD8/114922/1x3.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Ggm5YjY.png" group-title="Série | CITADEL",S01 E04
 http://shd8.mflixhd.xyz/rgdfgret43tfawd32fvdsf/SHD8/114922/1x4.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Ggm5YjY.png" group-title="Série | CITADEL",S01 E05
+#EXTINF:-1 tvg-logo="https://imgur.com/Ggm5YjY.png" group-title="Série | CITADELA",S01 E05
 http://shd8.mflixhd.xyz/rgdfgret43tfawd32fvdsf/SHD8/114922/1x5.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Ggm5YjY.png" group-title="Série | CITADEL",S01 E06
+#EXTINF:-1 tvg-logo="https://imgur.com/Ggm5YjY.png" group-title="Série | CITADELA",S01 E06
 http://shd8.mflixhd.xyz/rgdfgret43tfawd32fvdsf/SHD8/114922/1x6.mp4
 
-############################################################################ PISANDO FUNDO S01
+################################################# ######################### PISANDO FUNDO S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a0nAh1f.png" group-title="Série | PISANDO FUNDO S01",S01 E01
-http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/158913/1x1.mp4 
+http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/158913/1x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a0nAh1f.png" group-title="Série | PISANDO FUNDO S01",S01 E02
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/158913/1x2.mp4
@@ -2895,118 +2908,118 @@ http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/158913/1x9.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a0nAh1f.png" group-title="Série | PISANDO FUNDO S01",S01 E10
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/158913/1x10.mp4
 
-############################################################################ LUPIN S01
+################################################# ######################### LUPINO S01
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="Série | LUPIN S01",S01 E01
-http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/96677/1x1.mp4 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="Série | LUPINE S01",S01 E01
+http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/96677/1x1.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="Série | LUPIN S01",S01 E02
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="Série | LUPINE S01",S01 E02
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/96677/1x2.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="Série | LUPIN S01",S01 E03
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="Série | LUPINE S01",S01 E03
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/96677/1x3.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="Série | LUPIN S01",S01 E04
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="Série | LUPINE S01",S01 E04
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/96677/1x4.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="Série | LUPIN S01",S01 E05
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AuR1evZ.png" group-title="Série | LUPINE S01",S01 E05
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/96677/1x5.mp4
 
-############################################################################ LUPIN S02
+################################################# ######################### LUPINO S02
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="Série | LUPIN S02",S02 E01
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="Série | LUPINE S02",S02 E01
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/96677/2x1.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="Série | LUPIN S02",S02 E02
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="Série | LUPINE S02",S02 E02
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/96677/2x2.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="Série | LUPIN S02",S02 E03
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="Série | LUPINE S02",S02 E03
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/96677/2x3.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="Série | LUPIN S02",S02 E04
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="Série | LUPINE S02",S02 E04
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/96677/2x4.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="Série | LUPIN S02",S02 E05
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sw9buBt.png" group-title="Série | LUPINE S02",S02 E05
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/96677/2x5.mp4
 
 
 
 
 
-############################################################################ LUPIN S03
+################################################# ######################### LUPINO S03
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPIN S03",S03 E01
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPINE S03",S03 E01
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/96677/3x1.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPIN S03",S03 E02
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPINE S03",S03 E02
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/96677/3x2.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPIN S03",S03 E03
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPINE S03",S03 E03
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/96677/3x3.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPIN S03",S03 E04
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPINE S03",S03 E04
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/96677/3x4.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPIN S03",S03 E05
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPINE S03",S03 E05
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/96677/3x5.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPIN S03",S03 E06
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPINE S03",S03 E06
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/96677/3x6.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPIN S03",S03 E07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6tBBiP.png" group-title="Série | LUPINE S03",S03 E07
 http://shd7.mflixhd.xyz/bweregffderfggfdf/SHD7/96677/3x7.mp4
 
-############################################################################ STRONG GIRL NAM-SOON S01
+################################################# ######################### MENINA FORTE NAM-SOON S01
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | STRONG GIRL NAM-SOON S01",S01 E01
-http://shd9.mflixhd.xyz/token/SHD9/203164/1x1.mp4 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | MENINA FORTE NAM-SOON S01",S01 E01
+http://shd9.mflixhd.xyz/token/SHD9/203164/1x1.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | STRONG GIRL NAM-SOON S01",S01 E02
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | MENINA FORTE NAM-SOON S01",S01 E02
 http://shd9.mflixhd.xyz/token/SHD9/203164/1x2.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | STRONG GIRL NAM-SOON S01",S01 E03
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | MENINA FORTE NAM-SOON S01",S01 E03
 http://shd9.mflixhd.xyz/token/SHD9/203164/1x3.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | STRONG GIRL NAM-SOON S01",S01 E04
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | MENINA FORTE NAM-SOON S01",S01 E04
 http://shd9.mflixhd.xyz/token/SHD9/203164/1x4.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | STRONG GIRL NAM-SOON S01",S01 E05
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | MENINA FORTE NAM-SOON S01",S01 E05
 http://shd9.mflixhd.xyz/token/SHD9/203164/1x5.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | STRONG GIRL NAM-SOON S01",S01 E06
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | MENINA FORTE NAM-SOON S01",S01 E06
 http://shd9.mflixhd.xyz/token/SHD9/203164/1x6.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | STRONG GIRL NAM-SOON S01",S01 E07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | MENINA FORTE NAM-SOON S01",S01 E07
 http://shd9.mflixhd.xyz/token/SHD9/203164/1x7.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | STRONG GIRL NAM-SOON S01",S01 E08
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | MENINA FORTE NAM-SOON S01",S01 E08
 http://shd9.mflixhd.xyz/token/SHD9/203164/1x8.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | STRONG GIRL NAM-SOON S01",S01 E09
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | MENINA FORTE NAM-SOON S01",S01 E09
 http://shd9.mflixhd.xyz/token/SHD9/203164/1x9.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | STRONG GIRL NAM-SOON S01",S01 E10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | MENINA FORTE NAM-SOON S01",S01 E10
 http://shd9.mflixhd.xyz/token/SHD9/203164/1x10.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | STRONG GIRL NAM-SOON S01",S01 E11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | MENINA FORTE NAM-SOON S01",S01 E11
 http://shd9.mflixhd.xyz/token/SHD9/203164/1x11.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | STRONG GIRL NAM-SOON S01",S01 E12
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | MENINA FORTE NAM-SOON S01",S01 E12
 http://shd9.mflixhd.xyz/token/SHD9/203164/1x12.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | STRONG GIRL NAM-SOON S01",S01 E13
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | MENINA FORTE NAM-SOON S01",S01 E13
 http://shd9.mflixhd.xyz/token/SHD9/203164/1x13.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | STRONG GIRL NAM-SOON S01",S01 E14
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | MENINA FORTE NAM-SOON S01",S01 E14
 http://shd9.mflixhd.xyz/token/SHD9/203164/1x14.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | STRONG GIRL NAM-SOON S01",S01 E15
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | MENINA FORTE NAM-SOON S01",S01 E15
 http://shd9.mflixhd.xyz/token/SHD9/203164/1x15.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | STRONG GIRL NAM-SOON S01",S01 E16
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9WCP5p9.png" group-title="Dorama | MENINA FORTE NAM-SOON S01",S01 E16
 http://shd9.mflixhd.xyz/token/SHD9/203164/1x16.mp4
 
-#################################################################### MEU DEMÔNIO FAVORITO S01
+################################################# ################## MEU DEMÔNIO FAVORITO S01
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAQd1J3.png" group-title="Dorama | MEU DEMÔNIO FAVORITO S01",S01 E01
 http://shd9.mflixhd.xyz/token/SHD9/218539/1x1.mp4
@@ -3045,9 +3058,9 @@ http://shd9.mflixhd.xyz/token/SHD9/218539/1x11.mp4
 http://shd9.mflixhd.xyz/token/SHD9/218539/1x12.mp4
 
 
-############################################################################ Dorama S01
+################################################# ######################### Dorama S01
 
-#EXTINF:-1 tvg-logo="https://imgur.com/tDFekz9.png" group-title="Dorama | O TEMPO TRAZ VC PRA MIM",S01 E01 
+#EXTINF:-1 tvg-logo="https://imgur.com/tDFekz9.png" group-title="Dorama | O TEMPO TRAZ VC PRA MIM",S01 E01
 http://shd9.mflixhd.xyz/token/SHD9/196474/1x1.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/tDFekz9.png" group-title="Dorama | O TEMPO TRAZ VC PRA MIM",S01 E02
@@ -3083,108 +3096,105 @@ http://shd9.mflixhd.xyz/token/SHD9/196474/1x11.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/tDFekz9.png" group-title="Dorama | O TEMPO TRAZ VC PRA MIM",S01 E12
 http://shd9.mflixhd.xyz/token/SHD9/196474/1x12.mp4
 
-############################################################################ FILMES
+################################################# ######################### FILMES
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Leitor
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Leitor
 http://fhd5.mflixhd.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0976051.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Em Ruínas 
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Em Ruínas
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt29722855.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Um Verão só para Nós 
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Um Verão só para Nós
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt17348934.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Meu Cunhado é um Vampiro 
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Meu Cunhado é um Vampiro
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt23744022.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Última Esperança Soviética 
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Última Esperança Soviética
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt17074644.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Rúcula com Tomate Sefo
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Rúcula com Tomate Sefo
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt7638246.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Desencaixados
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Desencaixados
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt15434074.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",60 minutos 
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt29538571.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Relaxe, Sou do Futuro 
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt13786042.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Mulheres: Jogar para ganhar
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt9047564.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",É Pura Sorte
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",É Pura Sorte
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt0102729.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Fale Comigo
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Fale Comigo
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt10638522.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Jogos Vorazes – A Cantiga dos Pássaros e das Serpentes 
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt10545296.mp4 
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Jogos Vorazes – A Cantiga dos Pássaros e das Serpentes
+http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt10545296.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Jogos Mortais 10
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Álibi.com"
+http://fhd1.mflixhd.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt5657028.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Ritual Maldito
+http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt12980286.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Jogos Mortais 10
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt21807222.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Perfeita Pra Você
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Perfeita Pra Você
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt6119856.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Feriado Sangrento 
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Feriado Sangrento
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt1448754.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Vingadores Ultimato
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Vingadores Ultimato
 http://fhd5.mflixhd.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt4154796.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Últimos Sobreviventes 
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Últimos Sobreviventes
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt13889602.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O matador d aluguel 
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O matador d aluguel
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt8378322.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Despedida d Solteira 
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Despedida d Solteira
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt5831402.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Os Mercenários 4
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Os Mercenários 4
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt3291150.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Desculpa Mais vou te Matar 
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Desculpa Mais vou te Matar
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt3442126.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Cor da Vingança 
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Cor da Vingança
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt2793072.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Tudo Sob Descontrole 
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Tudo Sob Descontrole
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt15484716.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Perseguição em Malta
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Perseguição em Malta
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt13515076.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Tática de Amor 
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Tática de Amor
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt14486678.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Tática de Amor 2
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Tática de Amor 2
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt21308698.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Os Gatões Uma Nova Balada 
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Os Gatões Uma Nova Balada
 http://fhd1.mflixhd.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt0377818.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Os Gatões 2 O Início 
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Os Gatões 2 O Início
 http://fhd5.mflixhd.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0800328.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Gênio Indomável
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Gênio Indomável
 http://fhd5.mflixhd.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0119217.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Malibu Crush
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Malibu Crush
 http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt3437892.mp4
 
-############################################################################ FILMES | NOVOS
-
-#EXTINF:-1  tvg-logo="https://i.topflix.fm/testme/dle2/posts/2023-06/418173778.jpg" group-title="FILMES | NOVOS",Velozes e Furiosos 10
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Velozes e Furiosos 10
 https://alukard.bio/a1/out/old/6/2764/2764_eng.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.topflix.fm/testme/dle2/posts/2022-07/225446349.jpg" group-title="FILMES | NOVOS",Velozes e Furiosos 9
+#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Velozes e Furiosos 9
 https://alukard.bio/a1/out/old/6/1498/1498_74012549velozes-e-furiosos-9.m3u8?a=1
+
+############################################################################ FILMES | NOVOS
 
 #EXTINF:-1  tvg-logo="https://i.topflix.fm/testme/dle2/posts/2022-07/361574188.jpg" group-title="FILMES | NOVOS",Velozes e Furiosos Hobbs e Shaw
 https://alukard.bio/a1/out/old/6/1352/1352_68074489velozes-e-furiosos-hobbs-e-shaw.m3u8?a=1
@@ -3197,9 +3207,6 @@ https://alukard.bio/a1/out/6/3779/3779_lift-roubo-nas-alturas-2024-web-dl-1080p-
 
 #EXTINF:-1  tvg-logo="https://i.topflix.fm/testme/dle2/posts/2024-01/4lrZJAvbE4UUUsvHavA0HEAjM5H.jpg" group-title="FILMES | NOVOS",A Sociedade da Neve
 https://alukard.bio/a1/out/5/3761/3761_a-sociedade-da-neve-2024-1080p-web-dl-dual-5.1-1.m3u8?a=1
-
-#EXTINF:-1  tvg-logo="https://i.topflix.fm/testme/dle2/posts/2024-02/vT3xahepzP796ei0NiZIZ6t8vsl.jpg" group-title="FILMES | NOVOS",Em Ruínas (2024)
-https://alukard.bio/a1/out/6/3867/3867_em.ruinas.2024.1080p.web-dl.aac.eac3.x264.dual.5.1.m3u8?a=1
 
 #EXTINF:-1  tvg-logo="https://i.topflix.fm/testme/dle2/posts/2022-07/277630724.jpg" group-title="FILMES | NOVOS",Coringa
 https://alukard.bio/a1/out/old/6/1356/1356_10998542coringa-2019.m3u8
