@@ -290,7 +290,7 @@ http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZev91o40nUnk
 ############################################################################ CANAIS PREMIERE
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD
-http://208.115.225.174:14460/
+https://sinalpublico.com/player3/ch.php?canal=premiereclubes
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD [Alter]
 http://208.115.225.174:14460/
