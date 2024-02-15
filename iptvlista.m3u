@@ -240,7 +240,7 @@ http://142.54.163.202:80/premium79/playlist.m3u8?ddd=1uXRVx7LzZ
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/557
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Canais | ESPORTES",ESPN HD
-http://191.97.14.38:4000/play/a017/index.m3u8
+http://177.128.113.8:1/play/a07l
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN BRASIL" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Canais | ESPORTES",ESPN HD [Alter]
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/209
@@ -252,19 +252,19 @@ http://51.83.238.223:16515/
 http://94.130.165.243:14515/
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="Canais | ESPORTES",ESPN 2 HD
-http://191.97.14.38:4000/play/a016/index.m3u8
+http://177.128.113.8:1/play/a07g
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="Canais | ESPORTES",ESPN 2 HD [Alter]
 http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZevJHMBJFEHS1YHxfHGD_Hy5
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPORTES",ESPN 3 HD
-http://191.97.14.38:4000/play/a027/index.m3u8
+http://177.128.113.8:1/play/a081
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPORTES",ESPN 3 HD [Alter]
 http://142.54.163.202/premium83/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPORTES",ESPN 4 HD
-http://191.97.14.38:4000/play/a04d/index.m3u8
+http://177.128.113.8:1/play/a08i
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPORTES",ESPN 4 FHD
 http://142.54.163.202/premium85/tracks-v1a1/mono.m3u8
@@ -274,18 +274,6 @@ http://51.83.238.223:16575/
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPORTES",ESPN Extra HD
 http://177.128.113.8:1/play/a08v
-
-#EXTINF:-1 tvg-id="Fox Sports 1 HD tvg-name="Fox Sports 1 HD " tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/foxsports.png" group-title="Canais | ESPORTES",Fox Sports 1 HD
-http://191.97.14.38:4000/play/a049/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox Sports 2 HD tvg-name="Fox Sports 2 HD " tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/foxsports.png" group-title="Canais | ESPORTES",Fox Sports 2 HD
-http://191.97.14.38:4000/play/a04e/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox Sports 3 HD tvg-name="Fox Sports 3 HD " tvg-logo="https://megacanais.com/wp-content/uploads/2020/12/foxsports.png" group-title="Canais | ESPORTES",Fox Sports 3 HD
-http://191.97.14.38:4000/play/a01h/index.m3u8
-
-#EXTINF:-1 tvg-id="Win Sports+ HD tvg-name="Win Sports+ HD" tvg-logo="https://logowik.com/content/uploads/images/win-sports6956.logowik.com.webp" group-title="Canais | ESPORTES",Win Sports+ HD
-http://191.97.14.38:4000/play/a047/index.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="Canais | ESPORTES",Band Sports HD
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
@@ -320,16 +308,12 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/507
 http://185.150.190.225:16476/
 
 #EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | ESPORTES",Premiere 6 HD
-https://m3u8.bz/a2/docs/premiere6/__index.m3u8?mu3zAQc9HC3GbwJq=XSFBs3mcH3Rvw-jOPd0vKg&3U1G7qaTxrPbalZnEx=1707625408
 
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | ESPORTES",Premiere 7 HD
-https://m3u8.bz/a2/docs/premiere7/__index.m3u8?mu3zAQc9HC3GbwJq=ViMMKp8HUwI5n9b7xstDXQ&3U1G7qaTxrPbalZnEx=1707625584
-
-#EXTINF:-1 tvg-id="PREMIERE " tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Canais | ESPORTES",Premiere 8 HD
-https://streaming.bz/docs/premiere8/1707596738102.php
 
 #EXTINF:-1 tvg-id="TyC Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="Canais | ESPORTES",TyC Sports HD
 https://live.sdfgnksbounce.com:8080/NDUuMjI2LjIzNC4xOQ==/11_.m3u8?token=2zCjRqWWWfA4zKlUFvDTKA&expires=1707101716
+
 
 ############################################################################ CANAIS SKY
 
