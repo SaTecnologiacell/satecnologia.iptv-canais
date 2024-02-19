@@ -59,10 +59,19 @@ https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOB
 ############################################################################ Canais | REALITY BBB 24
 
 #EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 1 HD
-http://xciptv.aplicativos.top/live/884202033/r537B8146t/298259.ts
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/298259
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Quarto Fada HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/298265
+
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Quarto Gnomo HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/298268
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB BBB Cozinha HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/298274
 
 #EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 2 HD
-https://cr7v.short.gy/ManoITV/BBB2/Index.m3u8
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/298262
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB BBB Mosaico HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/298283
 
 ############################################################################ Canais | ABERTO
 
