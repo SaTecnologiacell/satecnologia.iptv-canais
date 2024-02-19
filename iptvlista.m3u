@@ -2,7 +2,7 @@
 
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",18/02/24
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",19/02/24
 https://cr7v.short.gy/live3/GloboTVMirante/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGKKlfQdtzoQXzu99xw2zTxyDldKOp_0c0FQ&usqp=CAU" group-title="PIX PARA MANTER A LISTA",marcio_fr1992@hotmail.com
@@ -817,7 +817,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedi
 ############################################################################ Canais | FILMES E SERIES
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD
-https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
+https://cr7v.short.gy/manotv/SPCHD/Index.m3u8
  
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT SD
 https://cdn-1.nxplay.com.br/TNT_TK//tracks-v1a1/mono.m3u8
@@ -1327,7 +1327,7 @@ http://78.159.119.122:2095/live/Tourobox1-xhkzIsaeVo/4n87HEWQlf/541.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/trwd2sT.png" group-title="Canais | INFANTIL",Peppa Pig YT
 https://ythls.armelin.one/channel/UCvD9GB-E4q_TuMpwUtFBhLA.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",Peppa Pig 24h
+#EXTINF:-1 tvg-logo="<https://imgur.com/BatygW5.png >" group-title="Canais | INFANTIL",Peppa Pig 24h
 http://24hrs.homelinux.com:80/24H-Peppa.Pig.S01.S02.S03.S04/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0rAnW4w.png" group-title="Canais | INFANTIL",Chespirito
@@ -1341,34 +1341,34 @@ http://24hrs.homelinux.com:80/24H-chaves-a-serie/video.m3u8?token=a4A2wbotS3
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",DRAGON BALL Z
 http://24hrs.homelinux.com:80/24H-dragon.ball.z/video.m3u8?token=a4A2wbotS3
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",Tom & Jerry 24h
+#EXTINF:-1 tvg-logo="<https://imgur.com/BatygW5.png >" group-title="Canais | INFANTIL",Tom & Jerry 24h
 http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8?token=a4A2wbotS3
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",Scoobdoo 24h
+#EXTINF:-1 tvg-logo="<https://imgur.com/BatygW5.png >" group-title="Canais | INFANTIL",Scoobdoo 24h
 http://24hrs.homelinux.com:80/24H-scoobdoo/video.m3u8?token=a4A2wbotS3
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",Popeye 24h
+#EXTINF:-1 tvg-logo="<https://imgur.com/BatygW5.png >" group-title="Canais | INFANTIL",Popeye 24h
 http://24hrs.homelinux.com:80/24H-Popeye.S01/video.m3u8?token=a4A2wbotS3
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",Os Simpsons 24h
+#EXTINF:-1 tvg-logo="<https://imgur.com/BatygW5.png >" group-title="Canais | INFANTIL",Os Simpsons 24h
 http://24hrs.homelinux.com:80/24H-ossimpsons/video.m3u8?token=a4A2wbotS3
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",X-Men Evolution 24h
+#EXTINF:-1 tvg-logo="<https://imgur.com/BatygW5.png >" group-title="Canais | INFANTIL",X-Men Evolution 24h
 http://24hrs.homelinux.com:80/24H-X-Men.Evolution.S01-S02-S03-S04/video.m3u8?token=a4A2wbotS3
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",PicaPau 24h
+#EXTINF:-1 tvg-logo="<https://imgur.com/BatygW5.png >" group-title="Canais | INFANTIL",PicaPau 24h
 http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?token=a4A2wbotS3
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",Cavaleiros Zodiaco 24h
+#EXTINF:-1 tvg-logo="<https://imgur.com/BatygW5.png >" group-title="Canais | INFANTIL",Cavaleiros Zodiaco 24h
 http://24hrs.homelinux.com:80/24H-cavaleiros/video.m3u8?token=a4A2wbotS3
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",Os Flistony 24h
+#EXTINF:-1 tvg-logo="<https://imgur.com/BatygW5.png >" group-title="Canais | INFANTIL",Os Flistony 24h
 http://24hrs.homelinux.com:80/24H-osflistony/video.m3u8?token=a4A2wbotS3
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",Masha e o Urso 24h
+#EXTINF:-1 tvg-logo="<https://imgur.com/BatygW5.png >" group-title="Canais | INFANTIL",Masha e o Urso 24h
 http://24hrs.homelinux.com:80/24H-Masha.e.o.Urso.S01eS02eS03/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | INFANTIL",Caverna do Dragão 24h
+#EXTINF:-1 tvg-logo="<https://imgur.com/BatygW5.png >" group-title="Canais | INFANTIL",Caverna do Dragão 24h
 http://24hrs.homelinux.com:80/24H-Caverna.do.dragao.S01E01/playlist.m3u8
 
 ############################################################################ Canais | INTERNACIONAL
@@ -1609,19 +1609,19 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869f
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="Canais | COMÉDIA",The Pet Collective
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",Um Maluco no Pedaço 24h
+#EXTINF:-1 tvg-logo="<https://imgur.com/BatygW5.png >" group-title="Canais | COMÉDIA",Um Maluco no Pedaço 24h
 http://24hrs.homelinux.com:80/24H-ummaluconopedaco/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",Os Trapalhões 24h
+#EXTINF:-1 tvg-logo="<https://imgur.com/BatygW5.png >" group-title="Canais | COMÉDIA",Os Trapalhões 24h
 http://24hrs.homelinux.com:80/24H-ostrapalhoes/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",2 Homens e Meio 24h
+#EXTINF:-1 tvg-logo="<https://imgur.com/BatygW5.png >" group-title="Canais | COMÉDIA",2 Homens e Meio 24h
 http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",Todo Mundo Odeia O Cris 24h
+#EXTINF:-1 tvg-logo="<https://imgur.com/BatygW5.png >" group-title="Canais | COMÉDIA",Todo Mundo Odeia O Cris 24h
 http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | COMÉDIA",Pegadinhas Silvio Santos 24h
+#EXTINF:-1 tvg-logo="<https://imgur.com/BatygW5.png >" group-title="Canais | COMÉDIA",Pegadinhas Silvio Santos 24h
 http://24hrs.homelinux.com:80/24H-pegadihassilviosantos.txt/video.m3u8?token=a4A2wbotS3 
 
 ############################################################################ TNT SPORTS REPRISE
@@ -1727,10 +1727,10 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CbmctRN.png" group-title="Canais | ABERTO",TV Grão Pará
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/0BoUkWv.png " group-title="Canais | ABERTO",TV LITORAL 
+#EXTINF:-1 tvg-logo="<https://imgur.com/0BoUkWv.png >" group-title="Canais | ABERTO",TV LITORAL 
 https://cdnhd.iblups.com/hls/FU91GRJ5XT.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/FTXUY6K.png " group-title="Canais | ABERTO",TV LITORAL RN
+#EXTINF:-1 tvg-logo="<https://imgur.com/FTXUY6K.png >" group-title="Canais | ABERTO",TV LITORAL RN
 https://video01.logicahost.com.br/tvlitoralrn/tvlitoralrn/chunklist_w1263783526.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/52LSunV.png" group-title="Canais | ABERTO",Soul Cine Clube
@@ -1859,7 +1859,7 @@ https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XFp4O1Q.png" group-title="Canais | ABERTO",Imperial TV
 https://acesso.ecast.site:3630/live/imperiallive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tHbZKnY.png " group-title="Canais | ABERTO",TV Mais Família
+#EXTINF:-1 tvg-logo="<https://i.imgur.com/tHbZKnY.png >" group-title="Canais | ABERTO",TV Mais Família
 https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/X3lIFxM.png" group-title="Canais | ABERTO",TV Fala Litoral 
@@ -1868,7 +1868,7 @@ https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/chunklist_w1605
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TyGio9J.png" group-title="Canais | ABERTO",Gogo Play
 https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rEIu04G.png " group-title="Canais | ABERTO",Canal Ok TV
+#EXTINF:-1 tvg-logo="<https://i.imgur.com/rEIu04G.png >" group-title="Canais | ABERTO",Canal Ok TV
 https://video01.kshost.com.br/oktv6914/oktv6914/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVFQTlu.png" group-title="Canais | ABERTO",IMG TV
@@ -1925,7 +1925,7 @@ https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mfdXYXs.png" group-title="Canais | ABERTO",TV OURO NEGRO
 https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TIsk5zN.png " group-title="Canais | ABERTO",Igreja Universal
+#EXTINF:-1 tvg-logo="<https://i.imgur.com/TIsk5zN.png >" group-title="Canais | ABERTO",Igreja Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RnXnExw.png" group-title="Canais | ABERTO",GRJNGO
@@ -3410,19 +3410,25 @@ https://alukard.bio/a1/out/old/6/32/32_389542136o-touro-ferdinando.m3u8?a=1
 https://alukard.bio/a1/out/old/6/532/532_320233622viva-a-vida-uma-festa.m3u8?a=1
 
 #EXTINF:-1  tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/24/02/07/23/14/5806426.jpg" group-title="FILMES | NOVOS",Amor em Soweto
-https://be7713.rcr82.waw05.cdn112.com/hls2/01/05531/51oqpx2kojtq_h/index-v1-a1.m3u8?t=TsPiM_gR1uljrpE2r_oQ7L_pJSxgN_jBdOyhY_lH3zA&s=1708228345&e=43200&f=27658551&srv=16&asn=&sp=2000
+https://alukard.bio/a1/out/6/4044/4044_amor.em.soweto.2024.1080p.web-dl.eac3.aac.dual.5.1.m3u8
 
 #EXTINF:-1  tvg-logo="https://media.filmelier.com/tit/rR07Xu/poster/me-mate-querido_6kwLP3U.jpeg" group-title="FILMES | NOVOS",Me Mate, Querido
-https://be4235.rcr32.ams02.cdn112.com/hls2/02/05527/4bglfwb64ym3_h/index-v1-a1.m3u8?t=IhH30voDuTak_mKQejGA3vZebVONZgd-zgvEyz4AWbE&s=1708228388&e=43200&f=27637231&srv=25&asn=&sp=2000
+https://alukard.bio/a1/out/6/4047/4047_me-mate-querido-2024-1080p-web-dl-dual-5.1.m3u8
 
 #EXTINF:-1  tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/23/05/16/22/53/0156803.jpg" group-title="FILMES | NOVOS",Velozes & Furiosos 10
-https://be4235.rcr32.ams02.cdn112.com/hls2/03/04088/1fq7riu7636j_h/index-v1-a1.m3u8?t=jmN-BujGeM5YBH8aksnZbEhRYMc6pICg5yeXkz6Mby8&s=1708226254&e=43200&f=20440953&srv=30&asn=&sp=2000
+https://alukard.bio/a1/out/old/6/2731/2731_dub_hdts_1win.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.shoppingcidadeluz.com.br/wp-content/uploads/2023/12/aquaman-2-o-reino-perdido_slide-G.webp" group-title="FILMES | NOVOS",Aquaman 2: O Reino Perdido
-https://be4242.rcr52.ams03.cdn112.com/hls2/02/05401/yhdzv2aeg0hx_h/index-v1-a1.m3u8?t=HjRQrsdHGQ5UqQfpBGKWh0-QJK0bLLWfk2qBN0dXjlo&s=1708226411&e=43200&f=27006351&srv=26&asn=&sp=2000
+#EXTINF:-1  tvg-logo="https://i.topflix.vc/testme/dle2/posts/2024-02/84ispMxgLDRvQaA6zlM9i7sdAAI.jpg" group-title="FILMES | NOVOS",Aquaman 2: O Reino Perdido
+https://alukard.bio/a1/out/6/3868/3868_aquaman.2.o.reino.perdido.2023.1080p.web-dl.aac.eac3.x264.dual.5.1.m3u8
 
 #EXTINF:-1  tvg-logo="https://br.web.img3.acsta.net/pictures/23/12/11/15/29/4433340.jpg" group-title="FILMES | NOVOS",The Beekeeper: Rede de Vingança
-https://be4242.rcr52.ams03.cdn112.com/hls2/01/05433/sjtdxice2yxw_h/index-v1-a1.m3u8?t=QdYezF0hiFjR0vepj7LlQH_dvC_KgJd369UX1_igbH8&s=1708226689&e=43200&f=27168216&srv=34&asn=&sp=2000
+https://alukard.bio/a1/out/6/3863/3863_the.beekeeper.2024.1080p.webrip.dublado.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/LkNCDW3R0Kg/maxresdefault.jpg" group-title="FILMES | NOVOS",Sisu
-https://be7713.rcr82.waw05.cdn112.com/hls2/01/04177/hx0t1b5880iq_h/index-v1-a1.m3u8?t=6apmIX3eU3DVZK4KBApHpYiJYUYPWVeIO_yGHIp2l4o&s=1708228519&e=43200&f=20885138&srv=23&asn=&sp=2000
+https://alukard.bio/a1/out/old/6/2716/2716_dub_1win.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.topflix.vc/testme/dle2/posts/2024-02/uPnDVNrtIZDHKmvCWN5dMGzI4Uu.jpg" group-title="FILMES | NOVOS",Minha Família Quer que Eu Case
+https://alukard.bio/a1/out/6/4100/4100_minha-familia-quer-que-eu-case-2023-web-dl-1080p-x264-dual-2.0.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.topflix.vc/testme/dle2/posts/2024-02/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg" group-title="FILMES | NOVOS",Madame Teia
+https://alukard.bio/a1/out/6/4050/4050_madame.web.2024.720p.camrip.dublado.m3u8
