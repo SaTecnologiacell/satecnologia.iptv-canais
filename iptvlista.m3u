@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml"
 ############################################################################ Informações 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",19/02/24
