@@ -3,10 +3,10 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml"
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",19/02/24
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",20/02/24
 https://cr7v.short.gy/live3/GloboTVMirante/Index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGKKlfQdtzoQXzu99xw2zTxyDldKOp_0c0FQ&usqp=CAU" group-title="PIX PARA MANTER A LISTA",marcio_fr1992@hotmail.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGKKlfQdtzoQXzu99xw2zTxyDldKOp_0c0FQ&usqp=CAU" group-title="PIX PARA AJUDAR A LISTA",marcio_fr1992@hotmail.com
 https://cr7v.short.gy/live3/GloboTVMirante/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vetores-premium/icone-popular-de-midia-social-do-instagram-editorial-apenas-kiev-ucrania-3-de-dezembro-de-2019_944081-64.jpg" group-title="Instagram",SA_TECNOLOGIA_CELL
@@ -226,7 +226,27 @@ https://tv02.zas.media:1936/futurotv21/futurotv21/chunklist_w309642670.m3u8?Mano
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais | ABERTO",TV Gazeta HD
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ManoTV
+############################################################################ Esportes
+#EXTINF:-1 tvg-logo="https://jorgesalvador.files.wordpress.com/2012/04/e21hdlogo.png" group-title="Canais | ESPORTES",E! HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2471
 
+#EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/esporte/df/2021/01/16/nova-marca-da-tnt-sports-que-substitui-o-esporte-interativo-1610824611734_v2_900x506.jpg" group-title="Canais | ESPORTES",TNT Sports 01 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18592
+
+#EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/esporte/df/2021/01/16/nova-marca-da-tnt-sports-que-substitui-o-esporte-interativo-1610824611734_v2_900x506.jpg" group-title="Canais | ESPORTES",TNT Sports 02
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18594
+
+#EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/esporte/df/2021/01/16/nova-marca-da-tnt-sports-que-substitui-o-esporte-interativo-1610824611734_v2_900x506.jpg" group-title="Canais | ESPORTES",TNT Sports 03
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18596
+
+#EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/esporte/df/2021/01/16/nova-marca-da-tnt-sports-que-substitui-o-esporte-interativo-1610824611734_v2_900x506.jpg" group-title="Canais | ESPORTES",TNT Sports HD*
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18590
+
+#EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2021/09/21/21101730596070.jpg?ims=fit-in/220x220/filters:fill(ffffff)" group-title="Canais | ESPORTES",Star + 1 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232232
+
+#EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2021/09/21/21101730596070.jpg?ims=fit-in/220x220/filters:fill(ffffff)" group-title="Canais | ESPORTES",Star + 2 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232237
 ############################################################################ CANAIS ESPORTES
 #EXTINF:-1 tvg-id="Jogo de Hoje HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/LIVEYOUTUBE.png" group-title="Canais | ESPORTES",Jogo de Hoje HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/234252
@@ -295,13 +315,13 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/228
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais | ESPORTES",Combate
-http://209.222.97.92:16493/
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/238
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais | ESPORTES",UFC Fightpass
-http://150.136.62.38:8880/channel/44b00ebb/index.m3u8?q=1704444391508
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250107
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais | ESPORTES",UFC Fightpass HD
-http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZev91o40nUnkPu0nMqfV-ogA
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250111
 
 ############################################################################ CANAIS PREMIERE
 
@@ -343,6 +363,9 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/526
 
 #EXTINF:-1 tvg-id="TyC Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="Canais | ESPORTES",TyC Sports HD
 https://live.sdfgnksbounce.com:8080/NDUuMjI2LjIzNC4xOQ==/11_.m3u8?token=2zCjRqWWWfA4zKlUFvDTKA&expires=1707101716
+
+#EXTINF:-1 tvg-id="FIFA+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_FIFA.svg/307px-Flag_of_FIFA.svg.png" group-title="Canais | ESPORTES",FIFA+ HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/250892
 
 
 ############################################################################ CANAIS SKY
@@ -608,10 +631,10 @@ https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://imgur.com/lH1Srp9.png" group-title="Canais | VARIEDADES",Discovery Turbo HD
-https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2591
 
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://imgur.com/lH1Srp9.png" group-title="Canais | VARIEDADES",Discovery Turbo HD [Alter]
-https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2590
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="Canais | VARIEDADES",Pluto TV Turbo
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -632,7 +655,7 @@ https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2576
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel HD
-https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2575
 
 #EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD 
 https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
@@ -653,7 +676,7 @@ https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
 http://cdn.connectbr.com.br/h2/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://imgur.com/t97qwNh.png" group-title="Canais | VARIEDADES",Animal Planet HD
-https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2600
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QwPiPlI.png" group-title="Canais | VARIEDADES",Rakuten Documentários | português e inglês
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
@@ -710,6 +733,9 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9222c482-23a9-11ec-814d-c9455e72eab8&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bca7cae1-d7dc-4faf-a3e9-4e3ef654e13b&userId=&serverSideAds=true
 
 ############################################################################ Canais | NOVELAS
+
+#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/673553?w=1920" group-title="Canais | NOVELAS",TNT Novelas  HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264556
 
 #EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA SD
 http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/2535.m3u8
@@ -895,43 +921,45 @@ http://199.127.60.83:16043/
 http://64.31.40.14:14043/
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX
-http://64.31.40.14:14031/
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/680
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/691
 
 #EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="Canais | FILMES E SERIES",MEGAPIX HD [Alter]
 http://64.31.40.14:14048/
+#EXTINF:-1 tvg-id="HBO Max " tvg-name="HBO Max " tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png" group-title="Canais | FILMES E SERIES",HBO Max 1 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121598
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18753
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO HD [Alter]
-http://208.115.225.174:14136/
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18753
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 HD 
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18757
 
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 HD [Alter]
-http://208.115.225.174:14140/
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18757
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE 
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18769
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE [Alter]
-http://208.115.225.174:14160/
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18769
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18761
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family FHD [Alter]
-http://208.115.225.174:14144/
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18761
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18777
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme HD [Alter]
-http://208.115.225.174:14165/
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18777
 
 #EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | FILMES E SERIES",HBO Mundi HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18773
@@ -1211,6 +1239,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Canais | INFANTIL",Nickelodeon HD
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg" group-title="Canais | INFANTIL",Nick Jr. HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/367
 
 #EXTINF:-1 tvg-logo="https://imgur.com/j9CMGyU.png" group-title="Canais | INFANTIL",Nick Jr. Club
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true
@@ -3437,10 +3467,19 @@ https://alukard.bio/a1/out/6/3868/3868_aquaman.2.o.reino.perdido.2023.1080p.web-
 https://alukard.bio/a1/out/6/3863/3863_the.beekeeper.2024.1080p.webrip.dublado.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/LkNCDW3R0Kg/maxresdefault.jpg" group-title="FILMES | NOVOS",Sisu
-https://alukard.bio/a1/out/old/6/2716/2716_dub_1win.m3u8
+https://be6721.rcr72.waw04.cdn112.com/hls2/01/04191/gu3d7ljiudlv_h/index-v1-a1.m3u8?t=BvXzphbwbF3Wn-muwJUUH_unnNceAWkhoAsKPv-9mJ4&s=1708456179&e=43200&f=27103624&srv=21&asn=&sp=2000
 
 #EXTINF:-1  tvg-logo="https://i.topflix.vc/testme/dle2/posts/2024-02/uPnDVNrtIZDHKmvCWN5dMGzI4Uu.jpg" group-title="FILMES | NOVOS",Minha Família Quer que Eu Case
 https://alukard.bio/a1/out/6/4100/4100_minha-familia-quer-que-eu-case-2023-web-dl-1080p-x264-dual-2.0.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.topflix.vc/testme/dle2/posts/2024-02/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg" group-title="FILMES | NOVOS",Madame Teia
 https://alukard.bio/a1/out/6/4050/4050_madame.web.2024.720p.camrip.dublado.m3u8
+
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w185/usDIBB0hOqLM8wMSGistfqxjukZ.jpg" group-title="FILMES | NOVOS",Lights Out
+https://be6721.rcr72.waw04.cdn112.com/hls2/01/05562/bq6i9vkqp2uv_x/index-v1-a1.m3u8?t=jJY5YnDXoPMsMUBUYMNV7B0iEKevGdTZ05IrJi5vMD4&s=1708455793&e=43200&f=27810644&srv=11&asn=&sp=2500
+
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w185/7JnAVrls2rY4RwJYTq2vvqNzTKU.jpg" group-title="FILMES | NOVOS",O Plano de Milhões
+https://be2719.rcr22.ams01.cdn112.com/hls2/02/05538/o9083knbn8yl_x/index-v1-a1.m3u8?t=7TPfbVPhSpgOZ_Tln4f0NSVhkEfy55GQmPFbc0qIv44&s=1708455920&e=43200&f=27694400&srv=28&asn=&sp=2500
+
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w185/n5wjsuYh954HLagCnqrLpPT8xi7.jpg" group-title="FILMES | NOVOS",60 Minutos
+https://be7713.rcr82.waw05.cdn112.com/hls2/03/05371/owio8fyb1fd7_x/index-v1-a1.m3u8?t=meaKQz0uzx8qq7HOuDtSTpfmjEcOMBBkzsTvGH4tr7k&s=1708456044&e=43200&f=26858461&srv=52&asn=&sp=2500
