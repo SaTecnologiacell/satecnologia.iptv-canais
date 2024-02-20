@@ -226,7 +226,9 @@ https://tv02.zas.media:1936/futurotv21/futurotv21/chunklist_w309642670.m3u8?Mano
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais | ABERTO",TV Gazeta HD
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ManoTV
-############################################################################ Esportes
+
+############################################################################ CANAIS ESPORTES
+
 #EXTINF:-1 tvg-logo="https://jorgesalvador.files.wordpress.com/2012/04/e21hdlogo.png" group-title="Canais | ESPORTES",E! HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2471
 
@@ -247,7 +249,7 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232232
 
 #EXTINF:-1 tvg-logo="https://img.ibxk.com.br/2021/09/21/21101730596070.jpg?ims=fit-in/220x220/filters:fill(ffffff)" group-title="Canais | ESPORTES",Star + 2 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232237
-############################################################################ CANAIS ESPORTES
+
 #EXTINF:-1 tvg-id="Jogo de Hoje HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/LIVEYOUTUBE.png" group-title="Canais | ESPORTES",Jogo de Hoje HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/234252
 
