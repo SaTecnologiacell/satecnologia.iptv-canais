@@ -1,5 +1,5 @@
 #EXTM3U
-
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 ############################################################################ Informações 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",19/02/24
@@ -14,7 +14,7 @@ https://www.instagram.com/reel/CzEjrgBOcCf/?igsh=MXg1dTI0Nm1vdjNoNw==
 
 ############################################################################ Canais | ABERTO
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo TV Mirante HD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo TV Mirante HD tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo TV Mirante HD
 https://cr7v.short.gy/live7/GloboTVMirante/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo TV Liberal Belém 
