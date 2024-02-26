@@ -1,9 +1,7 @@
-#EXTM3U
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/br.xml"
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",21/02/24
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",26/02/24
 https://cr7v.short.gy/live3/GloboTVMirante/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGKKlfQdtzoQXzu99xw2zTxyDldKOp_0c0FQ&usqp=CAU" group-title="PIX PARA AJUDAR LISTA FICAR ATIVA ",marcio_fr1992@hotmail.com
@@ -2081,6 +2079,60 @@ https://alukard.bio/a1/out/6/3825/3825_percy-jackson-e-os-olimpianos-s01e07-web-
 
 #EXTINF:-1 tvg-logo="https://i.topflix.fm/testme/dle2/posts/2024-01/63zVMAA4oxz9N8EnkNdR8gpyjKf.jpg" group-title="Série | Percy Jackson e os Olimpianos S01",S01 E08
 https://alukard.bio/a1/out/6/3825/3825_percy-jackson-e-os-olimpianos-s01e08-web-dl-1080p-x264-dual-5.1.m3u8
+
+
+################################################################# A KILLER PARADOX S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpARcPX.png" group-title="Serie | A KILLER PARADOX S01",S01 E01
+http://shd9.doramasapp.xyz/token/SHD9/202783/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpARcPX.png" group-title="Serie | A KILLER PARADOX S01",S01 E02
+http://shd9.doramasapp.xyz/token/SHD9/202783/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpARcPX.png" group-title="Serie | A KILLER PARADOX S01",S01 E03
+http://shd9.doramasapp.xyz/token/SHD9/202783/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpARcPX.png" group-title="Serie | A KILLER PARADOX S01",S01 E04
+http://shd9.doramasapp.xyz/token/SHD9/202783/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpARcPX.png" group-title="Serie | A KILLER PARADOX S01",S01 E05
+http://shd9.doramasapp.xyz/token/SHD9/202783/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpARcPX.png" group-title="Serie | A KILLER PARADOX S01",S01 E06
+http://shd9.doramasapp.xyz/token/SHD9/202783/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpARcPX.png" group-title="Serie | A KILLER PARADOX S01",S01 E07
+http://shd9.doramasapp.xyz/token/SHD9/202783/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpARcPX.png" group-title="Serie | A KILLER PARADOX S01",S01 E08
+http://shd9.doramasapp.xyz/token/SHD9/202783/1x8.mp4
+
+
+################################################################# HOUSE OF NINJAS S01
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hUQMQx7.png" group-title="Serie | HOUSE OF NINJAS S01",S01 E01
+http://shd9.doramasapp.xyz/token/SHD9/210098/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hUQMQx7.png" group-title="Serie | HOUSE OF NINJAS S01",S01 E02
+http://shd9.doramasapp.xyz/token/SHD9/210098/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hUQMQx7.png" group-title="Serie | HOUSE OF NINJAS S01",S01 E03
+http://shd9.doramasapp.xyz/token/SHD9/210098/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hUQMQx7.png" group-title="Serie | HOUSE OF NINJAS S01",S01 E04
+http://shd9.doramasapp.xyz/token/SHD9/210098/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hUQMQx7.png" group-title="Serie | HOUSE OF NINJAS S01",S01 E05
+http://shd9.doramasapp.xyz/token/SHD9/210098/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hUQMQx7.png" group-title="Serie | HOUSE OF NINJAS S01",S01 E06
+http://shd9.doramasapp.xyz/token/SHD9/210098/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hUQMQx7.png" group-title="Serie | HOUSE OF NINJAS S01",S01 E07
+http://shd9.doramasapp.xyz/token/SHD9/210098/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hUQMQx7.png" group-title="Serie | HOUSE OF NINJAS S01",S01 E08
+http://shd9.doramasapp.xyz/token/SHD9/210098/1x8.mp4
 
 ################################################################# BOM DIA, VERÔNICA S01
 
