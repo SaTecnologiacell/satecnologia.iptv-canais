@@ -58,11 +58,11 @@ https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOB
 
 ############################################################################ Canais | REALITY BBB 24
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/files/104379/456x304/2a1ca1692e/img-card-horizontal-bbb-m-1.jpg/m/filters:quality(75)" group-title="Canais | REALITY",BBB Cam 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMoE3nJ.png" group-title="Canais | REALITY",BBB Cam 1 HD
 https://cr7v.short.gy/manotv/BBBc1/Index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/files/104379/456x304/2a1ca1692e/img-card-horizontal-bbb-m-1.jpg/m/filters:quality(75)" group-title="Canais | REALITY",BBB Cam 2 HD
-https://d1wwtskvr1r98k.cloudfront.net/out/v1/ab297948fa2349b5bc418c9d0bba5596/index.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMoE3nJ.png" group-title="Canais | REALITY",BBB Cam 2 HD
+https://cr7v.short.gy/manotv/BBBc2/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kCfvcgJ.png" group-title="Canais | REALITY",WebTVBrasileira YT
 https://ythls.armelin.one/channel/UC0LlPl_mWhIFqVxcH1l3xpQ.m3u8
