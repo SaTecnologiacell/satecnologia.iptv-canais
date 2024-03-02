@@ -226,52 +226,58 @@ https://tv02.zas.media:1936/futurotv21/futurotv21/chunklist_w309642670.m3u8?Mano
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais | ABERTO",TV Gazeta HD
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ManoTV
 
-############################################################################ CANAIS ESPORTES
-
-#EXTINF:-1 tvg-id="Jogo de Hoje HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/LIVEYOUTUBE.png" group-title="Canais | ESPORTES",Jogo de Hoje HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/234252
+################################################# ######################### CANAIS ESPORTES
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV SD
-https://cr7v.short.gy/manotv/SporTVSD/Index.m3u8
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83623
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD
-http://logincp.top:80/live/73612320/12255994/14678.m3u8
+https://cr7v.short.gy/manoiptv/SporTV-HD/Index.m3u8
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV FHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/548
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83257
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV 4K
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/52090
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83814
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 HD
-http://logincp.top:80/live/73612320/12255994/14676.m3u8
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83255
 
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais | ESPORTES",SporTV 3 HD
-http://logincp.top:80/live/73612320/12255994/14674.m3u8
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83256
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Canais | ESPORTES",ESPN HD
-http://logincp.top:80/live/73612320/12255994/14798.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN SD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/162796
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Canais | ESPORTES",ESPN HD [Alterar ]
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/231647
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN HD
+https://cr7v.short.gy/manoiptv/ESPN/Index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://imgur.com/1QaofaO.png" group-title="Canais | ESPORTES",ESPN FHD
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN HD [Alterar]
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83208
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN FHD
 http://51.83.238.223:16515/
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="Canais | ESPORTES",ESPN 2 alta definição
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPORTES", ESPN 2HD
 http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZevtbWdu59HfH3xecThTT4UD
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://imgur.com/fggtC7Y.png" group-title="Canais | ESPORTES",ESPN 2 HD [Alterar]
-http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZevJHMBJFEHS1YHxfHGD_Hy5
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPORTES", ESPN 2 HD [Alterar]
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83209
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPORTES",ESPN 3 alta definição
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/218
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83207
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPORTES",ESPN 4 SD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83560
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPORTES",ESPN 4 alta definição
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/224
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83217
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPORTES",ESPN 4 HD
 http://51.83.238.223:16575/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPORTES",ESPN 5 HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83561
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="Canais | ESPORTES",Band Sports alta definição
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
@@ -279,39 +285,43 @@ http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais | ESPORTES",Combate HD
 http://209.222.97.92:16493/
 
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais | ESPORTES",Combate HD [ Alterar]
+https://cr7v.short.gy/manotv/EVENTO/Index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais | ESPORTES",UFC Fightpass
 http://150.136.62.38:8880/channel/44b00ebb/index.m3u8?q=1704444391508
 
 #EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais | ESPORTES",UFC Fightpass HD
 http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZev91o40nUnkPu0nMqfV-ogA
 
-#EXTINF:-1 tvg-logo="https://imgur.com/NPCMbYc.png" group-title="Canais | ESPORTES",FOX Sports 2 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118751
-############################################################################ CANAIS PREMIERE
+################################################# ######################### ESTREIA DO CANAIS
 
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes SD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/491
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83601
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD
-https://cr7v.short.gy/manotv/PFCCLUBEHD/Index.m3u8
+https://cr7v.short.gy/manoiptv/PFCCLUBEHD/Index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes FHD
-https://cr7v.short.gy/manotv/PremiereClube/Index.m3u8
+https://cr7v.short.gy/manoiptv/PremiereClube/Index.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | ESPORTES",Premiere 2 SD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83602
 
 #EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | ESPORTES",Premiere 2 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/498
+http://s.apkwuv.xyz:80/demopadexchange/demopad/87323
 
-#EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | ESPORTES",Premiere 3 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/503
+#EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | ESPORTES",Estreia 3 SD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83603
 
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | ESPORTES",Premiere 3 HD [Alterar]
+#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | ESPORTES",Premiere 3 HD
 http://185.150.190.225:16468/
 
 #EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | ESPORTES",Premiere 4 SD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/506
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83604
 
 #EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | ESPORTES",Premiere 4 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/507
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83247
 
 #EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | ESPORTES",Premiere 4 HD
 http://185.150.190.225:16472/
@@ -320,84 +330,21 @@ http://185.150.190.225:16472/
 http://185.150.190.225:16476/
 
 #EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | ESPORTES",Premiere 5 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/513
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83248
 
 #EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | ESPORTES",Premiere 6 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/518
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83249
 
 #EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | ESPORTES",Premiere 6 HD [Alterar]
 http://185.150.190.225:16482/
 
 #EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | ESPORTES",Premiere 7 HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/523
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83250
 
-############################################################################ Canais | Cine Sky
+################################################# ######################### AO VIVO
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 1" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 1
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18253
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 2" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 2
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18254
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 3" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 3
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18255
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 4" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 4
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18256
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 5" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 5
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18257
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 6" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 6
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18258
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 7" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 7
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18259
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 8" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 8
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18260
-
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 9" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Canais | Cine Sky",CINE SKY PLAY 9
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18261
-
-############################################################################ AO VIVO AGORA
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232233
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 2
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232237
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 3
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232240
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 4
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232245
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 5
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121598
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 6
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121602
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 7
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121606
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 8
-https://live.seo.tv.bo/live/SEO-5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SY31PgU.png" group-title="Canais | ESPORTES",Ge Fast HD
-https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8?ManoTV
-
-############################################################################ AO VIVO 
-#EXTINF:-1 tvg-logo="https://imgur.com/SqdTHnU.png" group-title="ao vivo | FUTEBOL",COPA DO BRASIL
-https://cr7v.short.gy/manotv/Jogo1/Index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/SqdTHnU.png" group-title="ao vivo | FUTEBOL",COPA DO BR 2
-https://cr7v.short.gy/manotv/Caze/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/SqdTHnU.png" group-title="ao vivo | FUTEBOL",COPA DO BR 3
-https://cr7v.short.gy/manotv/GOAT/Index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/195181
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="ao vivo | FUTEBOL",CazéTV YT.C
 https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
@@ -414,31 +361,34 @@ https://cr7v.short.gy/manotv/GOAT/Index.m3u8
 ################################################# ######################### AO VIVO AGORA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232233
+http://s.apkwuv.xyz:80/demopadexchange/demopad/163043
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 2
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232237
+http://s.apkwuv.xyz:80/demopadexchange/demopad/163270
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 3
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232240
+http://s.apkwuv.xyz:80/demopadexchange/demopad/163274
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 4
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/232245
+http://s.apkwuv.xyz:80/demopadexchange/demopad/142030
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 5
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121598
+http://s.apkwuv.xyz:80/demopadexchange/demopad/142029
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 6
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121602
+http://s.apkwuv.xyz:80/demopadexchange/demopad/169513
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 7
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/121606
+http://s.apkwuv.xyz:80/demopadexchange/demopad/169514
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 8
-https://live.seo.tv.bo/live/SEO-5.m3u8
+https://cr7v.short.gy/manotv/Jogo1/Index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SY31PgU.png" group-title="Canais | ESPORTES",Ge Fast HD
-https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 9
+https://cr7v.short.gy/manotv/Caze/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/io8ktJf.png" group-title="ao vivo | FUTEBOL",JOGO 10
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83295
 
 ############################################################################ CANAIS DE NOTÍCIAS 
 
