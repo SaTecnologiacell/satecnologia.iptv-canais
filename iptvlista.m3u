@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",28/02/24
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",02/03/24
 https://cr7v.short.gy/live3/GloboTVMirante/Index.m3u8
 
 
@@ -508,7 +508,7 @@ https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/4m1j3CL.png" group-title="Canais | NOTÍCIAS",TV VIDEONEWS
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
 
-############################################################################ Canais | VARIEDADES
+################################################# ######################### Canais | VARIEDADES
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HhSQN5B.png" group-title="Canais | VARIEDADES",Oportunidades TV HD
 http://maistop.net:80/live/free/free/2.m3u8
@@ -516,34 +516,34 @@ http://maistop.net:80/live/free/free/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HhSQN5B.png" group-title="Canais | VARIEDADES",Oportunidades TV FHD
 http://maistop.net:80/live/free/free/1.m3u8
 
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2515
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow SD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83587
 
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow FHD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2516
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Canais | VARIEDADES",Multishow HD
+http://s.apkwuv.xyz/live/demopadexchange/demopad/83237.ts
 
 #EXTINF:-1 tvg-logo="https://imgur.com/WTCdLuw.png" group-title="Canais | VARIEDADES",MTV HD
 http://cdn2.connectbr.com.br/mtv/index.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://imgur.com/jvvmyCv.png" group-title="Canais | VARIEDADES",BIS HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2463
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83190
 
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://imgur.com/jcgv2zs.png" group-title="Canais | VARIEDADES",Comedy Central HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/686
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83195
 
-#EXTINF:-1 tvg-logo="https://imgur.com/xnGAZOr.png" group-title="Canais | VARIEDADES",TBS HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/721
+#EXTINF:-1 tvg-id="TBS HD" tvg-logo="https://imgur.com/xnGAZOr.png" group-title="Canais | VARIEDADES",TBS HD
 
-#EXTINF:-1 tvg-logo="https://imgur.com/yGT50Kk.png" group-title="Canais | VARIEDADES",E! HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2471
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Canais | VARIEDADES",Prime box HD
+#EXTINF:-1 tvg-logo="https://imgur.com/yGT50Kk.png" group-title="Canais | VARIEDADES",E! alta definição
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83206
+
+#EXTINF:-1 tvg-id="Prime Box Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Canais | VARIEDADES ",Prime Box HD
 http://cdn2.connectbr.com.br/Prime/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Canais | VARIEDADES",Prime box HD 
+#EXTINF:-1 tvg-id="Prime Box Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Canais | VARIEDADES ",Prime Box HD
 http://cdn-1.nxplay.com.br/PRIME_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QRxGp7f.png" group-title="Canais | VARIEDADES",Canal Empreender
+#EXTINF:-1 tvg-id="Empreender HD" tvg-name="Empreender HD" tvg-logo="https://i.imgur.com/QRxGp7f.png" group-title="Canais | VARIEDADES", Empreender HD
 https://livestream.zazerconer.workers.dev/channel/UCBqosmarVhVAKYXGVt1JvnA.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/4QWoV1Z.png" group-title="Canais | VARIEDADES",ARTE 1
@@ -553,7 +553,7 @@ https://cdn-1.nxplay.com.br/ARTE1_TK/index.m3u8
 https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
 
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://imgur.com/8RDEcE9.png" group-title="Canais | VARIEDADES",GNT HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2483
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83222
 
 #EXTINF:-1 tvg-logo="https://imgur.com/X8bDYyO.png" group-title="Canais | VARIEDADES",Receita Fast HD
 https://dl27mmj7tlts0.cloudfront.net/03.m3u8?ManoTV
@@ -562,28 +562,25 @@ https://dl27mmj7tlts0.cloudfront.net/03.m3u8?ManoTV
 https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="Canais | VARIEDADES",Pluto TV KFood
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba83c08f00076b60a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
 
-#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",Discovery ID HD
+#EXTINF:-1 tvg-name="ID" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID HD
 https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IE8xwt4.png" group-title="Canais | VARIEDADES",Trace Brasil
 https://cdn-1.nxplay.com.br/TRACE_BRAZUCA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BWfmUwV.png" group-title="Canais | VARIEDADES",People Are Awesome
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BWfmUwV.png" group-title="Canais | VARIEDADES",Pessoas são incríveis
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7HTxrEq.png" group-title="Canais | VARIEDADES",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://imgur.com/lH1Srp9.png" group-title="Canais | VARIEDADES",Discovery Turbo HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2591
-
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://imgur.com/lH1Srp9.png" group-title="Canais | VARIEDADES",Discovery Turbo HD [Alter]
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2590
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://imgur.com/lH1Srp9.png" group-title="Canais | VARIEDADES",Discovery Turbo alta definição
+https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="Canais | VARIEDADES",Pluto TV Turbo
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceD NT=%7BTARGETOPT%7D&id do dispositivo =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://imgur.com/jlhvLJb.png" group-title="Canais | VARIEDADES",Motorvision FHD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
@@ -594,71 +591,65 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2182
 #EXTINF:-1 tvg-logo="https://imgur.com/6sTkahx.png" group-title="Canais | VARIEDADES",Discovery World HD
 https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/VSezlWv.png" group-title="Canais | VARIEDADES",Discovery h&h HD
+#EXTINF:-1 tvg-id="Disco. Casa e Saúde HD" tvg-name="Disco. Casa e Saúde HD" tvg-logo="https://imgur.com/VSezlWv.png" group-title= "Canais | VARIEDADES",Disc. Casa e Saúde HD
 https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel HD [Alter]
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2576
+#EXTINF:-1 tvg-id="Discovery ChanneHDl" tvg-name="Discovery Channel HD" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Canal SD
+https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais | VARIEDADES",Discovery Channel HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2575
+https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD 
+#EXTINF:-1 tvg-logo="https://imgur.com/1Hm6dQU.png" group-title="Canais | VARIEDADES",Discovery Science HD
 https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/NUFWsJ0.png" group-title="Canais | VARIEDADES",Discovery Theater HD
-https://cdn-1.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/NUFWsJ0.png" group-title="Canais | VARIEDADES",Discovery Theatre HD
+https://cdn-3.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES",HGTV SD
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV HD" tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES", HGTV SD
 https://cdn-1.nxplay.com.br/HGTV_BR_NX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dT19vNc.png" group-title="Canais | VARIEDADES",HGTV HD
 https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",History HD
+#EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | VARIEDADES",Histórico HD
 https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/rgDKfki.png" group-title="Canais | VARIEDADES",History 2 HD
+#EXTINF:-1 tvg-logo="https://imgur.com/rgDKfki.png" group-title="Canais | VARIEDADES",História 2 HD
 http://cdn.connectbr.com.br/h2/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://imgur.com/t97qwNh.png" group-title="Canais | VARIEDADES",Animal Planet HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2600
+https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QwPiPlI.png" group-title="Canais | VARIEDADES",Rakuten Documentários | português e inglês
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="Pluto TV Investigação" tvg-name="Pluto TV Investigação" tvg-logo="https://imgur.com/JfLHsbj.png" group-title="Canais | VARIEDADES",Pluto tv Investigação
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=f85e9ccf-0cae-11ec-8588-0242ac110003&sid=f85e9ccf-0cae-11ec-8588-0242ac110003&userId=
+#EXTINF:-1 tvg-id="Pluto TV Investigação" tvg-name="Pluto TV Investigação" tvg-logo="https://imgur.com/JfLHsbj.png" group-title="Canais | VARIEDADES", Plutão tv Investigação
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&client DeviceType=0&clientID=3878c229-195a-4843- 9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel =web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=f85e9ccf-0cae- 11ec-8588-0242ac110003&sid=f85e9ccf-0cae-11ec-8588-0242ac110003&userId=
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png" group-title="Canais | VARIEDADES",Os Arquivos do FBI
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceD NT=%7BTARGETOPT%7D&id do dispositivo =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://imgur.com/MN9IqXW.png" group-title="Canais | VARIEDADES",Investigacao Total HD
-https://d7bktbz8mvtgl.cloudfront.net/playlist_960x540.m3u8
-
-#EXTINF:-1 tvg-id="Pluto TV MISTÉRIOS" tvg-name="Pluto TV MISTÉRIOS" tvg-logo="https://imgur.com/NhguLFB.png" group-title="Canais | VARIEDADES",Pluto TV Mistérios
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=469630a0-acb8-11eb-b9c5-c167fdadbada&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8e6159be-c98a-4ef4-89d8-635378b7761d&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="Pluto TV MISTÉRIOS" tvg-name="Pluto TV MISTÉRIOS" tvg-logo="https://imgur.com/NhguLFB.png" group-title="Canais | VARIEDADES", Plutão TV Mistérios
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=469630a0-acb8-1 1eb- b9c5-c167fdadbada&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8e6159be-c98a-4ef4-89d8-635378b7761d&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="Canais | VARIEDADES",Pluto TV Documentários
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png" group-title="Canais | VARIEDADES",Pluto TV Minha Obsessão Favorita
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61843f5e491af10007f7eefa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61843f5e491af10007f7eefa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title="Canais | VARIEDADES",Pluto TV Animais
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title="Canais | VARIEDADES",Plutão TV Animais
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceD NT=%7BTARGETOPT%7D&id do dispositivo =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="Canais | VARIEDADES",World Poker Tour
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://imgur.com/E0VqV6w.png" group-title="Canais | VARIEDADES",SBT Internacional HD
-https://amg01391-sbtinfast-amg01391c1-lg-br-654.playouts.now.amagi.tv/playlist/amg01391-addigital-sbtinternational-lgbr/playlist.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT =%7BTARGETOPT%7D&id do dispositivo =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Canais | VARIEDADES",RedeTV!
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&device DNT=%7BTARGETOPT%7D&id do dispositivo =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png" group-title="Canais | VARIEDADES",TV Cultura 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png" group-title="Canais | VARIEDADES",TV Cultura
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&device DNT=%7BTARGETOPT%7D&id do dispositivo =%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="Canais | VARIEDADES",Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
@@ -666,45 +657,39 @@ https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="Canais | VARIEDADES",Revry Brasil
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/XXm7kn7.png" group-title="Canais | VARIEDADES",Hello TV 
+#EXTINF:-1 tvg-logo="https://imgur.com/XXm7kn7.png" group-title="Canais | VARIEDADES",Olá TV
 http://cdn.connectbr.com.br:80/Hello/mono.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://imgur.com/GFm3pXL.png" group-title="Canais | VARIEDADES",CLC TV
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/yEvzTGK.png" group-title="Canais | VARIEDADES",Viajando pelo Brasil 
+#EXTINF:-1 tvg-logo="https://imgur.com/yEvzTGK.png" group-title="Canais | VARIEDADES",Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-id="Pluto TV PARAMOUNT+ APRESENTA" tvg-logo="https://imgur.com/gTt3Ajw.png" group-title="Canais | VARIEDADES",Paramount+ Apresenta
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9222c482-23a9-11ec-814d-c9455e72eab8&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bca7cae1-d7dc-4faf-a3e9-4e3ef654e13b&userId=&serverSideAds=true
+################################################# ######################### Canais | NOVELAS
 
-############################################################################ Canais | NOVELAS
-
-#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/673553?w=1920" group-title="Canais | NOVELAS",TNT Novelas  HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264556
-
-#EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA SD
-http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/2535.m3u8
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA SD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83659
 
 #EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD
-http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/2536.m3u8
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83276
 
-#EXTINF:-1 tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD [Alter]
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD [Alterar]
 http://64.31.40.14:14884/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas SD
-http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/88
+http://s.apkwuv.xyz:80/demopadexchange/demopad/299476
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas HD
 http://51.79.17.168:14613/
 
-#EXTINF:-1 tvg-logo="https://imgur.com/p7tvqin.png" group-title="Canais | NOVELAS",Novelando HD 
+#EXTINF:-1 tvg-logo="https://imgur.com/p7tvqin.png" group-title="Canais | NOVELAS",Novelando HD
 http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/p7tvqin.png" group-title="Canais | NOVELAS",Novelando HD
 https://cc-21vbc0vo9kqq3.akamaized.net/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="Canais | NOVELAS",Os Dez Mandamentos 
+#EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="Canais | NOVELAS",Os Dez Mandamentos
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yL7HMC2.png" group-title="Canais | NOVELAS",TV Novelas
@@ -716,10 +701,10 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hQrgqd/SICNovelas.png" group-title="Canais | NOVELAS",SIC Novelas
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="Canais | NOVELAS",TELEVISA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="Canais | NOVELAS",TELEVISA
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/JmK2D4i.png" group-title="Canais | NOVELAS",Pluto TV Novelas
+#EXTINF:-1 tvg-logo="https://imgur.com/JmK2D4i.png" group-title="Canais | NOVELAS",Plutão TV Novelas
 https://i.mjh.nz/PlutoTV/15dcde0cc2efd2700090b7ff4-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="Canais | NOVELAS",Novelas Turcas
@@ -738,28 +723,28 @@ https://live.seo.tv.bo/live/SEO-6.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GrtNJki.png" group-title="Canais | NOVELAS",TV Telenovelas
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed& coppa=falso&deviceDNT =1&deviceId=canal&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1  tvg-logo="https://imgur.com/RJDQqhJ.png" group-title="Canais | NOVELAS",Las Estrellas Latin America
+#EXTINF:-1 tvg-logo="https://imgur.com/RJDQqhJ.png" group-title="Canais | NOVELAS",Las Estrellas América Latina
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/boOwYKj.png" group-title="Canais | NOVELAS", TV Novelas Drama
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/boOwYKj.png" group-title="Canais | NOVELAS", TV Novelas Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b6000 7ffbba1&deviceLat=&deviceLon=&deviceMake= web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/JjzpYfV.png" group-title="Canais | NOVELAS",TV Novelas Romance
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db3851800077c871e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JjzpYfV.png" group-title="Canais | NOVELAS",TV Novelas Romance
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db38518000 77c871e&deviceLat=&deviceLon=&deviceMake= web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/l5BDImW.png" group-title="Canais | NOVELAS",TV Telemundo Telenovelas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l5BDImW.png" group-title="Canais | NOVELAS",TV Telemundo Telenovelas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a 338d165&deviceLat=&deviceLon=&deviceMake= web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
 
-#EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="Canais | NOVELAS",Novelissima
+#EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="Canais | NOVELAS",Novelíssima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mqEHDE1.png" group-title="Canais | NOVELAS",Sony Novelas | LG
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mqEHDE1.png" group-title="Canais | NOVELAS",Sony Novelas | Plex
-https://ecfe6e3fc3a34d60ac625cda77722824.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694&ads.wurl_name=SonyCanalNovelas-1&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=y4Rf78msRg4_dQbMaoax&ads.plex_id=5f5132e362fe160040f26c0f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mqEHDE1.png" group-title="Canais | NOVELAS",Sony Novelas | Plexo
+https://ecfe6e3fc3a34d60ac625cda77722824.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=69 4&ads.wurl_name=SonyCanalNovelas-1&ads.coppa=0&ads.us_privacy= 1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=y4Rf78msRg4_dQbMaoax&ads.plex_id=5f5132e362fe160040f26c0f&ads.ua=okhttp%2 F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https %3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
 ############################################################################ Canais | REALITY
 
@@ -2040,6 +2025,84 @@ https://alukard.bio/a1/out/6/3825/3825_percy-jackson-e-os-olimpianos-s01e07-web-
 
 #EXTINF:-1 tvg-logo="https://i.topflix.fm/testme/dle2/posts/2024-01/63zVMAA4oxz9N8EnkNdR8gpyjKf.jpg" group-title="Série | Percy Jackson e os Olimpianos S01",S01 E08
 https://alukard.bio/a1/out/6/3825/3825_percy-jackson-e-os-olimpianos-s01e08-web-dl-1080p-x264-dual-5.1.m3u8
+
+################################################################# AVATAR: O ÚLTIMO MESTRE DO AR S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3nqTt8S.png" group-title="Serie | AVATAR: O ÚLTIMO MESTRE DO AR S01",S01 E01
+http://shd9.doramasapp.xyz/token/SHD9/82452/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3nqTt8S.png" group-title="Serie | AVATAR: O ÚLTIMO MESTRE DO AR S01",S01 E02
+http://shd9.doramasapp.xyz/token/SHD9/82452/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3nqTt8S.png" group-title="Serie | AVATAR: O ÚLTIMO MESTRE DO AR S01",S01 E03
+http://shd9.doramasapp.xyz/token/SHD9/82452/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3nqTt8S.png" group-title="Serie | AVATAR: O ÚLTIMO MESTRE DO AR S01",S01 E04
+http://shd9.doramasapp.xyz/token/SHD9/82452/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3nqTt8S.png" group-title="Serie | AVATAR: O ÚLTIMO MESTRE DO AR S01",S01 E05
+http://shd9.doramasapp.xyz/token/SHD9/82452/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3nqTt8S.png" group-title="Serie | AVATAR: O ÚLTIMO MESTRE DO AR S01",S01 E06
+http://shd9.doramasapp.xyz/token/SHD9/82452/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3nqTt8S.png" group-title="Serie | AVATAR: O ÚLTIMO MESTRE DO AR S01",S01 E07
+http://shd9.doramasapp.xyz/token/SHD9/82452/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3nqTt8S.png" group-title="Serie | AVATAR: O ÚLTIMO MESTRE DO AR S01",S01 E08
+http://shd9.doramasapp.xyz/token/SHD9/82452/1x8.mp4
+
+################################################################# A MULHER DO DIABO S01
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bcQUMnl.png" group-title="Serie | A MULHER DO DIABO S01",S01 E01
+http://shd8.doramasapp.xyz/rgdfgret43tfawd32fvdsf/SHD8/205442/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bcQUMnl.png" group-title="Serie | A MULHER DO DIABO S01",S01 E02
+http://shd8.doramasapp.xyz/rgdfgret43tfawd32fvdsf/SHD8/205442/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bcQUMnl.png" group-title="Serie | A MULHER DO DIABO S01",S01 E03
+http://shd8.doramasapp.xyz/rgdfgret43tfawd32fvdsf/SHD8/205442/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bcQUMnl.png" group-title="Serie | A MULHER DO DIABO S01",S01 E04
+http://shd8.doramasapp.xyz/rgdfgret43tfawd32fvdsf/SHD8/205442/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bcQUMnl.png" group-title="Serie | A MULHER DO DIABO S01",S01 E05
+http://shd8.doramasapp.xyz/rgdfgret43tfawd32fvdsf/SHD8/205442/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bcQUMnl.png" group-title="Serie | A MULHER DO DIABO S01",S01 E06
+http://shd8.doramasapp.xyz/rgdfgret43tfawd32fvdsf/SHD8/205442/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bcQUMnl.png" group-title="Serie | A MULHER DO DIABO S01",S01 E07
+http://shd8.doramasapp.xyz/rgdfgret43tfawd32fvdsf/SHD8/205442/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bcQUMnl.png" group-title="Serie | A MULHER DO DIABO S01",S01 E08
+http://shd8.doramasapp.xyz/rgdfgret43tfawd32fvdsf/SHD8/205442/1x8.mp4
+
+################################################################# A MULHER DO DIABO S02
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zVkoiEd.png" group-title="Serie | A MULHER DO DIABO S02",S02 E01
+http://shd8.doramasapp.xyz/rgdfgret43tfawd32fvdsf/SHD8/205442/2x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zVkoiEd.png" group-title="Serie | A MULHER DO DIABO S02",S02 E02
+http://shd8.doramasapp.xyz/rgdfgret43tfawd32fvdsf/SHD8/205442/2x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zVkoiEd.png" group-title="Serie | A MULHER DO DIABO S02",S02 E03
+http://shd8.doramasapp.xyz/rgdfgret43tfawd32fvdsf/SHD8/205442/2x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zVkoiEd.png" group-title="Serie | A MULHER DO DIABO S02",S02 E04
+http://shd8.doramasapp.xyz/rgdfgret43tfawd32fvdsf/SHD8/205442/2x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zVkoiEd.png" group-title="Serie | A MULHER DO DIABO S02",S02 E05
+http://shd8.doramasapp.xyz/rgdfgret43tfawd32fvdsf/SHD8/205442/2x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zVkoiEd.png" group-title="Serie | A MULHER DO DIABO S02",S02 E06
+http://shd8.doramasapp.xyz/rgdfgret43tfawd32fvdsf/SHD8/205442/2x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zVkoiEd.png" group-title="Serie | A MULHER DO DIABO S02",S02 E07
+http://shd8.doramasapp.xyz/rgdfgret43tfawd32fvdsf/SHD8/205442/2x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zVkoiEd.png" group-title="Serie | A MULHER DO DIABO S02",S02 E08
+http://shd8.doramasapp.xyz/rgdfgret43tfawd32fvdsf/SHD8/205442/2x8.mp4
 
 
 ################################################################# A KILLER PARADOX S01
@@ -3482,4 +3545,4 @@ https://alukard.bio/a1/out/6/4057/4057_o.plano.de.milhoes.2021.1080p.web-dl.dual
 https://alukard.bio/a1/out/6/3858/3858_60-minutos-2024-web-dl-1080p-x264-dual-5.1.m3u8
 
 #EXTINF:-1  tvg-logo="https://br.web.img2.acsta.net/pictures/23/09/05/23/38/3016228.png" group-title="FILMES | NOVOS",A Fuga das Galinhas: A Ameaça dos Nuggets
-https://zod.damianweb.workers.dev/https://cloclo50.cloud.mail.ru/weblink/view/j4M4/ka1CqrybE
+https://workerproxy.warezcdn.workers.dev/?url=https://cloclo50.cloud.mail.ru/weblink/view/j4M4/ka1CqrybE
