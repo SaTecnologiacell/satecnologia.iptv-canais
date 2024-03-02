@@ -4,51 +4,63 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",02/03/24
 https://cr7v.short.gy/live3/GloboTVMirante/Index.m3u8
 
+#EXTINF:-1 tvg-logo="https://t.ctcdn.com.br/UGs3Ub_gCyIIeVFnao8y_JcGriM=/1200x675/smart/i399982.jpeg" group-title="PIX/DOAÇÃO",marcio_fr1992@hotmail.com
+http://manoplus.ddns.net/mano.mp4
 
-############################################################################ Canais | ABERTO
+################################################# ######################### Canais | ABERTO
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo TV Mirante HD tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo TV Mirante HD
-https://cr7v.short.gy/live7/GloboTVMirante/Index.m3u8
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo RPC TV Maringá alta definição
+http://s.apkwuv.xyz:80/demopadexchange/demopad/162703
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo TV Liberal Belém 
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2366
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo Anhanguera HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83270
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo Juiz d Fora MG
-https://0141-vos.dtvott.com/DASH/stream_06/Segment-4083729405334830.m4v
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo TV Mirante HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83498
 
-c7fe64d76a4-1707245899-1707238699
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo MG HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2378
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo TV Liberal Belém
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83506
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo RJ HD
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2374
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo Juiz d Fora MG
+http://s.apkwuv.xyz:80/demopadexchange/demopad/162682
 
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo MG HD
+http://185.150.190.225:16263/
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo Verdes Mares
+http://s.apkwuv.xyz:80/demopadexchange/demopad/162711
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo Nordeste FHD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/162791
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo RJ HD
+https://8mwx.short.gy/GLOBORJ/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo SP HD
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo SP HD [Alter]
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | ABERTO",Globo SP HD [Alterar]
 http://hls1.sua.tv:80/live/globosphd/s.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | ABERTO",TV TEM SP HD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | ABERTO",TV TEM SP-HD
 http://cdn-1.nxplay.com.br/TV_TEM_TK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LiXkiAZ.png" group-title="Canais | ABERTO",Globo ES HD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/LiXkiAZ.png" group-title="Canais | ABERTO",Globo ES alta definição
 http://200.194.238.229:8383/live/globosupernet/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h4PzuTy.png" group-title="Canais | ABERTO",Globo RPC Curitiba
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/h4PzuTy.png" group-title="Canais | ABERTO",Globo RPC Curitiba
 https://8mwx.short.gy/RPCPR/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sGlWS38.png" group-title="Canais | ABERTO",Globo SC HD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/sGlWS38.png" group-title="Canais | ABERTO",Globo SC alta definição
 https://8mwx.short.gy/NSCTVSC/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lmi9NLU.png" group-title="Canais | ABERTO",Globo RBS HD
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/Lmi9NLU.png" group-title="Canais | ABERTO",Globo RBS alta definição
 https://cr7v.short.gy/live7/GloboRS/Index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | ABERTO",Globo BA Sudoeste SD
-https://cr7v.short.gy/ManoitV/GloboBASD/Index.m3u8
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | ABERTO",Globo BA Sudoeste FHD
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | ABERTO",Globo BA HD
+
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/k4fl1wF.png" group-title="Canais | ABERTO",Globo BA alta definição
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8?ManoTV
 
 ############################################################################ Canais | REALITY BBB 24
