@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 ############################################################################ Informações 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",09/03/24
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO", 15/03/24
 https://cr7v.short.gy/live3/GloboTVMirante/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://t.ctcdn.com.br/UGs3Ub_gCyIIeVFnao8y_JcGriM=/1200x675/smart/i399982.jpeg" group-title="PIX/DOAÇÃO",marcio_fr1992@hotmail.com
@@ -3435,105 +3435,179 @@ http://shd9.mflixhd.xyz/token/SHD9/196474/1x12.mp4
 
 ############################################################################ FILMES
 
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Retorno dos Thundermans
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt26943420.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Ricky Stanicky
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt1660648.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Donzela 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13452446.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Recepcionista
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt7979142.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Xaque Mate
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt30850554.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Guerra do Hambúrguer 
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0119215.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Guerra do Hambúrguer 2
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt25289836.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Beekeeper Rede d Vingança 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15314262.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Vale do amor
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13496136.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Marcas da Vida
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt20864704.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Leve-me
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt6598626.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", 2022 Através da minha Janela
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt14463484.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",2023  Através da minha Janela 2: Além do Mar
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt21245882.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",2024Através da minha Janela 3: Olho nos olhos 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt28105944.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",40 dias e 40 noites
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0243736.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Cherry 2000
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0092746.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Acampamento do pecado
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt8949056.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Ligados pelo Amor
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt2205697.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Volta pra Mim
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt6462958.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Os Reis de Dogtown
+http://fhd1.doramasapp.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt0355702.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Paixão Sem Limites 
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0106627.mp4
+Belo desastre
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt2316548.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Separados pelo Casamento 
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0452594.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Fazendo meu Filme
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15386618.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Recepcionista
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt7979142.mp4
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Mamonas Assassinas O Filme
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt29713426.mp4
+
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O Leitor
-http://fhd5.mflixhd.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0976051.mp4
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0976051.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Em Ruínas 
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt29722855.mp4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt29722855.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Um Verão só para Nós 
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt17348934.mp4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt17348934.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Meu Cunhado é um Vampiro 
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt23744022.mp4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt23744022.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Última Esperança Soviética 
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt17074644.mp4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt17074644.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Rúcula com Tomate Sefo
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt7638246.mp4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt7638246.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Desencaixados
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt15434074.mp4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15434074.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",É Pura Sorte
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt0102729.mp4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt0102729.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Fale Comigo
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt10638522.mp4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt10638522.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Jogos Vorazes – A Cantiga dos Pássaros e das Serpentes 
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt10545296.mp4 
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt10545296.mp4 
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Álibi.com"
-http://fhd1.mflixhd.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt5657028.mp4
+http://fhd1.doramasapp.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt5657028.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Ritual Maldito 
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt12980286.mp4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt12980286.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Jogos Mortais 10
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt21807222.mp4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt21807222.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Perfeita Pra Você
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt6119856.mp4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt6119856.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Feriado Sangrento 
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt1448754.mp4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt1448754.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Vingadores Ultimato
-http://fhd5.mflixhd.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt4154796.mp4
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt4154796.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Últimos Sobreviventes 
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt13889602.mp4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13889602.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",O matador d aluguel 
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt8378322.mp4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt8378322.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Despedida d Solteira 
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt5831402.mp4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt5831402.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Os Mercenários 4
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt3291150.mp4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt3291150.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Desculpa Mais vou te Matar 
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt3442126.mp4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt3442126.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",A Cor da Vingança 
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt2793072.mp4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt2793072.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Tudo Sob Descontrole 
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt15484716.mp4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt15484716.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Perseguição em Malta
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt13515076.mp4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt13515076.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Tática de Amor 
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt14486678.mp4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt14486678.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Tática de Amor 2
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt21308698.mp4
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt21308698.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Os Gatões Uma Nova Balada 
-http://fhd1.mflixhd.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt0377818.mp4
+http://fhd1.doramasapp.xyz/eretgfvccdsertgf4356tygfre435tygf/FHD3/tt0377818.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Os Gatões 2 O Início 
-http://fhd5.mflixhd.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0800328.mp4
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0800328.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Gênio Indomável
-http://fhd5.mflixhd.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0119217.mp4
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0119217.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Malibu Crush
-http://fhd4.mflixhd.xyz/toktergfer32tgdsvsdven/FHD4/tt3437892.mp4
-
+http://fhd4.doramasapp.xyz/toktergfer32tgdsvsdven/FHD4/tt3437892.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Diário de uma adolescente 
-http://fhd5.mflixhd.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt3172532.mp4
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt3172532.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Diário de um adolescente 
-http://fhd5.mflixhd.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0112461.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Velozes e Furiosos 9
-https://alukard.bio/a1/out/old/6/1498/1498_74012549velozes-e-furiosos-9.m3u8?a=1
+http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0112461.mp4
 
 ############################################################################ FILMES | NOVOS
 
